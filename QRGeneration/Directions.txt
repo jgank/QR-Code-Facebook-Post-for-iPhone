@@ -1,0 +1,44 @@
+//  Created by Justin Knag on 1/4/11.
+//  Copyright 2011 Knag Enterprises. All rights reserved.
+//
+//  Permission is hereby granted, free of charge, to any person
+//  obtaining a copy of this software and associated documentation
+//  files (the "Software"), to deal in the Software without
+//  restriction, including without limitation the rights to use,
+//  copy, modify, merge, publish, distribute, sublicense, and/or sell
+//  copies of the Software, and to permit persons to whom the
+//  Software is furnished to do so, subject to the following
+//  conditions:
+//  
+//  The above copyright notice and this permission notice shall be
+//  included in all copies or substantial portions of the Software.
+//  
+//  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+//  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+//  OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+//  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+//  HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+//  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+//  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+//  OTHER DEALINGS IN THE SOFTWARE.
+
+Directions:
+
+1. To use the QR Facebook Post for iPhone library, please include the latest facebook-iphone-sdk available at 
+https://github.com/facebook/facebook-iphone-sdk. Please make sure you include your facebook App ID in the URL 
+Sceme category in the plist file. Also, users must register their own App on the Facebook developers site at
+facebook.com/developers.
+
+2. The free open source library ASIHTTPRequest is also needed for the QR Post for iPhone library. Please download
+it at http://allseeing-i.com/ASIHTTPRequest/ and follow the setup instructions.
+
+3. Drag QRGenerator.h and QRGenerator.m to your project and copy the files into your directory.
+
+4. Frome here, you can use the library by including QRGenerator.h in any Objective-C iPhone class. For example,
+
+	QRGenerator *qrgen = [[QRGenerator alloc] initWithTitle:@"QR Facebook iPhone Library"
+													Caption:@"By Justin Knag"
+												Description:@"Easilly generate QR codes for your App and have users post them to Facebook to get more exposure for your App"
+													  AppID:@"409312874"
+											  FacebookAppID:@"133549830045975"];
+	[qrgen generateQR];

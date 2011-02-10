@@ -1,0 +1,1221 @@
+TQRGeneration
+v7
+r0
+t318983690.765449
+cCheck dependencies
+cProcessInfoPlistFile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist QRGeneration-Info.plist
+cCompileXIB /Users/jgank/Documents/QRGeneration/MainWindow.xib
+cCompileXIB /Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+cCpResource build/Debug-iphonesimulator/QRGeneration.app/FBDialog.bundle FBDialog.bundle
+cProcessPCH /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch QRGeneration_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd /Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o /Users/jgank/Documents/QRGeneration/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataCompressor.o /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataDecompressor.o /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDownloadCache.o /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIFormDataRequest.o /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIHTTPRequest.o /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIInputStream.o /Users/jgank/Documents/QRGeneration/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASINetworkQueue.o /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Reachability.o /Users/jgank/Documents/QRGeneration/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerator.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSObject+SBJSON.o /Users/jgank/Documents/QRGeneration/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSString+SBJSON.o /Users/jgank/Documents/QRGeneration/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJSON.o /Users/jgank/Documents/QRGeneration/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonBase.o /Users/jgank/Documents/QRGeneration/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonParser.o /Users/jgank/Documents/QRGeneration/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonWriter.o /Users/jgank/Documents/QRGeneration/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBRequest.o /Users/jgank/Documents/QRGeneration/FBRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Facebook.o /Users/jgank/Documents/QRGeneration/Facebook.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBLoginDialog.o /Users/jgank/Documents/QRGeneration/FBLoginDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBDialog.o /Users/jgank/Documents/QRGeneration/FBDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration normal i386
+cGenerateDSYMFile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+cTouch /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC1224400000000001C3D40
+t1287725636
+s1850688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC1221800000000000004CF
+t1287725592
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004CC122CF00000000000000EB
+t1287725775
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC122D0000000000005BF20
+t1287725776
+s376608
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC121E80000000000001A58
+t1287725544
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004A11E8210000000000000DE2
+t1242687521
+s3554
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E46D0000000000001533
+t1286857837
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4770000000000000782
+t1286857847
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACA90000000000005462
+t1287629993
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACA80000000000004F61
+t1287629992
+s20321
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACAC0000000000005A69
+t1287629996
+s23145
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/zlib.h
+c000000004CC109BF00000000000102A5
+t1287719359
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.1.2.3.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.h
+c000000004D5196F10000000000000453
+t1297192689
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m
+c000000004D5196F10000000000003CC4
+t1297192689
+s15556
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jgank/Documents/QRGeneration/ASICacheDelegate.h
+c000000004D5196F000000000000011CE
+t1297192688
+s4558
+i<Foundation/Foundation.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIDataCompressor.h
+c000000004D5196F10000000000000691
+t1297192689
+s1681
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIDataCompressor.m
+c000000004D5196F1000000000000196B
+t1297192689
+s6507
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.h
+c000000004D5196F000000000000006A3
+t1297192688
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m
+c000000004D5196F000000000000018B6
+t1297192688
+s6326
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIDownloadCache.h
+c000000004D5196F00000000000000804
+t1297192688
+s2052
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIDownloadCache.m
+c000000004D5196F1000000000000403F
+t1297192689
+s16447
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.h
+c000000004D5196F00000000000000A6D
+t1297192688
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m
+c000000004D5196F00000000000002B52
+t1297192688
+s11090
+i"ASIFormDataRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.h
+c000000004D5196F1000000000000A94C
+t1297192689
+s43340
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m
+c000000004D5196F000000000000280EF
+t1297192688
+s164079
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIHTTPRequestConfig.h
+c000000004D5196F000000000000003B0
+t1297192688
+s944
+
+N/Users/jgank/Documents/QRGeneration/ASIHTTPRequestDelegate.h
+c000000004D5196F1000000000000063E
+t1297192689
+s1598
+
+N/Users/jgank/Documents/QRGeneration/ASIInputStream.h
+c000000004D5196F000000000000003C9
+t1297192688
+s969
+i<Foundation/Foundation.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIInputStream.m
+c000000004D5196F00000000000000BF0
+t1297192688
+s3056
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASINetworkQueue.h
+c000000004D5196F0000000000000120D
+t1297192688
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/jgank/Documents/QRGeneration/ASINetworkQueue.m
+c000000004D5316810000000000002C8D
+t1297290881
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIProgressDelegate.h
+c000000004D5196F00000000000000678
+t1297192688
+s1656
+
+N/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h
+c000000004CDE90860000000000000DF6
+t1289654406
+s3574
+i"ASIHTTPRequest.h"
+i<libxml/HTMLparser.h>
+i<libxml/xmlsave.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m
+c000000004CDE90860000000000007098
+t1289654406
+s28824
+i"ASIWebPageRequest.h"
+i"ASINetworkQueue.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/jgank/Documents/QRGeneration/Classes/MainViewController.h
+c000000004D5309F300000000000001F8
+t1297287667
+s504
+i<UIKit/UIKit.h>
+i"QRGenerator.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m
+c000000004D5309F50000000000000809
+t1297287669
+s2057
+i"MainViewController.h"
+i"ASIFormDataRequest.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+c000000004D530A0200000000000051DE
+t1297287682
+s20958
+
+N/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.h
+c000000004D530E1C0000000000000241
+t1297288732
+s577
+i<UIKit/UIKit.h>
+i"MainViewController.h"
+i"FBConnect.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m
+c000000004D530E060000000000000A3F
+t1297288710
+s2623
+i"QRGenerationAppDelegate.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/QRGenerator.h
+c000000004D53168A00000000000004FB
+t1297290890
+s1275
+i<Foundation/Foundation.h>
+i"FBConnect.h"
+i"ASIFormDataRequest.h"
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/QRGenerator.m
+c000000004D5316110000000000001918
+t1297290769
+s6424
+i"QRGenerator.h"
+
+N/Users/jgank/Documents/QRGeneration/FBConnect.h
+c000000004D5196F100000000000002C2
+t1297192689
+s706
+i"Facebook.h"
+i"FBDialog.h"
+i"FBLoginDialog.h"
+i"FBRequest.h"
+i"SBJSON.h"
+
+N/Users/jgank/Documents/QRGeneration/FBDialog.bundle
+c000000004D5196E50000000000000088
+t1297192677
+s136
+
+N/Users/jgank/Documents/QRGeneration/FBDialog.h
+c000000004D5196F10000000000001246
+t1297192689
+s4678
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jgank/Documents/QRGeneration/FBDialog.m
+c000000004D5196F1000000000000576F
+t1297192689
+s22383
+i"FBDialog.h"
+i"Facebook.h"
+
+N/Users/jgank/Documents/QRGeneration/FBLoginDialog.h
+c000000004D5196F1000000000000056B
+t1297192689
+s1387
+i"FBDialog.h"
+
+N/Users/jgank/Documents/QRGeneration/FBLoginDialog.m
+c000000004D5196F10000000000000BC4
+t1297192689
+s3012
+i"FBDialog.h"
+i"FBLoginDialog.h"
+
+N/Users/jgank/Documents/QRGeneration/FBRequest.h
+c000000004D5196F10000000000000CEA
+t1297192689
+s3306
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jgank/Documents/QRGeneration/FBRequest.m
+c000000004D5196F10000000000002C39
+t1297192689
+s11321
+i"FBRequest.h"
+i"JSON.h"
+
+N/Users/jgank/Documents/QRGeneration/Facebook.h
+c000000004D5196F10000000000000C94
+t1297192689
+s3220
+i"FBLoginDialog.h"
+i"FBRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/Facebook.m
+c000000004D5196F10000000000005285
+t1297192689
+s21125
+i"Facebook.h"
+i"FBLoginDialog.h"
+i"FBRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/JSON.h
+c000000004D5196E600000000000008F9
+t1297192678
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/NSObject+SBJSON.h
+c000000004D5196E60000000000000A01
+t1297192678
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/jgank/Documents/QRGeneration/JSON/NSObject+SBJSON.m
+c000000004D5196E6000000000000089E
+t1297192678
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/NSString+SBJSON.h
+c000000004D5196E60000000000000916
+t1297192678
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/jgank/Documents/QRGeneration/JSON/NSString+SBJSON.m
+c000000004D5196E6000000000000087D
+t1297192678
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/SBJSON.h
+c000000004D5196E60000000000000AED
+t1297192678
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/SBJSON.m
+c000000004D5196E60000000000001ABC
+t1297192678
+s6844
+i"SBJSON.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/SBJsonBase.h
+c000000004D5196E60000000000000B82
+t1297192678
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/jgank/Documents/QRGeneration/JSON/SBJsonBase.m
+c000000004D5196E60000000000000AC1
+t1297192678
+s2753
+i"SBJsonBase.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/SBJsonParser.h
+c000000004D5196E60000000000000C0B
+t1297192678
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/SBJsonParser.m
+c000000004D5196E600000000000036D0
+t1297192678
+s14032
+i"SBJsonParser.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/SBJsonWriter.h
+c000000004D5196E60000000000001140
+t1297192678
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/jgank/Documents/QRGeneration/JSON/SBJsonWriter.m
+c000000004D5196E60000000000001F26
+t1297192678
+s7974
+i"SBJsonWriter.h"
+
+N/Users/jgank/Documents/QRGeneration/MainWindow.xib
+c000000004D5196F00000000000005BE1
+t1297192688
+s23521
+
+N/Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+c000000004D5196E600000000000000AA
+t1297192678
+s170
+
+N/Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch
+c000000004D5196F0000000000000016C
+t1297192688
+s364
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/jgank/Documents/QRGeneration/Reachability.h
+c000000004D5196F00000000000001D0E
+t1297192688
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/jgank/Documents/QRGeneration/Reachability.m
+c000000004D5196F00000000000005E0C
+t1297192688
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app
+t1297290890
+s340
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM
+t1297290890
+s136
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/FBDialog.bundle
+t1297192679
+s136
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist
+t1297194919
+s717
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/MainViewController.nib
+t1297287684
+s1408
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/MainWindow.nib
+t1297192704
+s1113
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/PkgInfo
+t1297194919
+s8
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+t1297290890
+s497036
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd
+t1297192679
+s170
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t1297192705
+s107960
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataCompressor.o
+t1297192705
+s23088
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataDecompressor.o
+t1297192705
+s23196
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDownloadCache.o
+t1297192705
+s60476
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIFormDataRequest.o
+t1297192705
+s47352
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIHTTPRequest.o
+t1297192706
+s485660
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIInputStream.o
+t1297192705
+s28952
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASINetworkQueue.o
+t1297290882
+s61236
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIWebPageRequest.o
+t2
+s0
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBDialog.o
+t1297192706
+s109688
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBLoginDialog.o
+t1297192705
+s43840
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBRequest.o
+t1297192705
+s43504
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Facebook.o
+t1297192706
+s75472
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o
+t1297290890
+s48716
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSObject+SBJSON.o
+t1297192705
+s8280
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSString+SBJSON.o
+t1297192705
+s8200
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGeneration.LinkFileList
+c000000004D5196EB0000000000000C73
+t1297192683
+s3187
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o
+t1297290890
+s52920
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerator.o
+t1297290890
+s80344
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Reachability.o
+t1297192706
+s33832
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJSON.o
+t1297192705
+s20064
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonBase.o
+t1297192705
+s13196
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonParser.o
+t1297192705
+s35860
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonWriter.o
+t1297192705
+s25536
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o
+t1297192705
+s6296
+
+N/Users/jgank/Documents/QRGeneration/main.m
+c000000004D5196F0000000000000016B
+t1297192688
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch
+t1294141059
+s16326640
+
+N/var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch
+t1297192705
+s16326640
+
+NQRGeneration-Info.plist
+c000000004D519FA60000000000000462
+t1297194918
+s1122
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318983690#318983690#0(0"0(0#1#0"8631381952#0"0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.462065
+e318885505.917053
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIAuthenticationDialog.o
+x/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m318885505#318885505#0(0"0(0#0#61"/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m8611318368#2019"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIAuthenticationDialog.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataCompressor.o /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.462746
+e318885505.700525
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataCompressor.o
+x/Users/jgank/Documents/QRGeneration/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m318885505#318885505#0(0"0(0#0#55"/Users/jgank/Documents/QRGeneration/ASIDataCompressor.m8607413984#2007"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataCompressor.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataDecompressor.o /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.463410
+e318885505.699176
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataDecompressor.o
+x/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m318885505#318885505#0(0"0(0#0#57"/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m8612176128#2011"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDataDecompressor.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDownloadCache.o /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.464075
+e318885505.851050
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDownloadCache.o
+x/Users/jgank/Documents/QRGeneration/ASIDownloadCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m318885505#318885505#0(0"0(0#0#54"/Users/jgank/Documents/QRGeneration/ASIDownloadCache.m8612001600#2005"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIDownloadCache.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIFormDataRequest.o /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.464744
+e318885505.750900
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIFormDataRequest.o
+x/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m318885505#318885505#0(0"0(0#0#56"/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m8612749184#2009"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIFormDataRequest.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIHTTPRequest.o /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.675516
+e318885506.584304
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIHTTPRequest.o
+x/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m318885505#318885506#0(0"0(0#0#52"/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m3419204559601235456#2001"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIHTTPRequest.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIInputStream.o /Users/jgank/Documents/QRGeneration/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.696902
+e318885505.793549
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIInputStream.o
+x/Users/jgank/Documents/QRGeneration/ASIInputStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jgank/Documents/QRGeneration/ASIInputStream.m318885505#318885505#0(0"0(0#0#52"/Users/jgank/Documents/QRGeneration/ASIInputStream.m8609767968#2001"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIInputStream.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIInputStream.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASINetworkQueue.o /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318983681.849225
+e318983682.061596
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASINetworkQueue.o
+x/Users/jgank/Documents/QRGeneration/ASINetworkQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m318983681#318983682#0(0"0(0#0#53"/Users/jgank/Documents/QRGeneration/ASINetworkQueue.m8626920864#2003"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASINetworkQueue.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIWebPageRequest.o /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315834640.825555
+e315834641.010692
+r0
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIWebPageRequest.o
+x/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:10:
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:14:30: error: libxml/HTMLparser.h: No such file or directory
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:15:27: error: libxml/xmlsave.h: No such file or directory
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:16:25: error: libxml/xpath.h: No such file or directory
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:17:34: error: libxml/xpathInternals.h: No such file or directory
+oIn file included from /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:10:
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:55: error: expected specifier-qualifier-list before 'xmlDocPtr'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m: In function '-[ASIWebPageRequest parseAsHTML]':
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:151: warning: implicit declaration of function 'xmlInitParser'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: 'doc' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: (Each undeclared identifier is reported only once
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: for each function it appears in.)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: warning: implicit declaration of function 'htmlReadFile'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: 'HTML_PARSE_NONET' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: 'HTML_PARSE_NOWARNING' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: 'HTML_PARSE_NOERROR' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:161: warning: implicit declaration of function 'htmlReadMemory'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:175: warning: implicit declaration of function 'xmlFreeDoc'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m: In function '-[ASIWebPageRequest finishedFetchingExternalResources:]':
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:284: error: 'xmlSaveCtxtPtr' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:284: error: expected ';' before 'saveContext'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:287: error: 'saveContext' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:287: warning: implicit declaration of function 'xmlSaveToFd'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:288: warning: implicit declaration of function 'xmlSaveDoc'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:288: error: 'doc' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:289: warning: implicit declaration of function 'xmlSaveClose'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:301: error: 'xmlBufferPtr' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:301: error: expected ';' before 'buffer'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:302: warning: implicit declaration of function 'xmlSaveToBuffer'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:302: error: 'buffer' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:306: warning: implicit declaration of function 'xmlBufferFree'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:319: warning: implicit declaration of function 'xmlCleanupParser'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m: In function '-[ASIWebPageRequest readResourceURLs]':
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:344: error: 'xmlXPathContextPtr' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:344: error: expected ';' before 'xpathCtx'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:345: error: 'xpathCtx' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:351: error: 'xmlXPathObjectPtr' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:351: error: expected ';' before 'xpathObj'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:352: error: 'xpathObj' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:353: warning: implicit declaration of function 'xmlXPathFreeContext'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:359: error: 'xmlNodeSetPtr' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:359: error: expected ';' before 'nodes'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:361: error: 'nodes' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:368: error: 'xmlChar' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:368: error: 'nodeValue' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:368: warning: implicit declaration of function 'xmlNodeGetContent'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:370: warning: implicit declaration of function 'xmlFree'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:375: error: 'relAttribute' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:375: warning: implicit declaration of function 'xmlGetNoNsProp'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:375: error: expected expression before ')' token
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:403: error: 'XML_NAMESPACE_DECL' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:408: warning: implicit declaration of function 'xmlXPathFreeObject'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m: In function '-[ASIWebPageRequest updateResourceURLs]':
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:433: error: 'xmlXPathContextPtr' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:433: error: expected ';' before 'xpathCtx'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:434: error: 'xpathCtx' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:440: error: 'xmlXPathObjectPtr' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:440: error: expected ';' before 'xpathObj'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:441: error: 'xpathObj' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:448: error: 'xmlNodeSetPtr' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:448: error: expected ';' before 'nodes'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:449: error: 'nodes' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:456: error: 'xmlChar' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:456: error: 'nodeValue' undeclared (first use in this function)
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:471: warning: implicit declaration of function 'xmlNodeSetContent'
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:471: error: expected expression before ')' token
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:477: error: expected expression before ')' token
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:484: error: expected expression before ')' token
+o/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:488: error: 'XML_NAMESPACE_DECL' undeclared (first use in this function)
+lSLF07#2@63"Compile /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m315834640#315834641#0(8106"In file included from /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:10:/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:14:30: error: libxml/HTMLparser.h: No such file or directory/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:15:27: error: libxml/xmlsave.h: No such file or directory/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:16:25: error: libxml/xpath.h: No such file or directory/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:17:34: error: libxml/xpathInternals.h: No such file or directoryIn file included from /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:10:/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h:55: error: expected specifier-qualifier-list before 'xmlDocPtr'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m: In function '-[ASIWebPageRequest parseAsHTML]':/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:151: warning: implicit declaration of function 'xmlInitParser'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: 'doc' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: (Each undeclared identifier is reported only once/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: for each function it appears in.)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: warning: implicit declaration of function 'htmlReadFile'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: 'HTML_PARSE_NONET' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: 'HTML_PARSE_NOWARNING' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:158: error: 'HTML_PARSE_NOERROR' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:161: warning: implicit declaration of function 'htmlReadMemory'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:175: warning: implicit declaration of function 'xmlFreeDoc'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m: In function '-[ASIWebPageRequest finishedFetchingExternalResources:]':/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:284: error: 'xmlSaveCtxtPtr' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:284: error: expected ';' before 'saveContext'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:287: error: 'saveContext' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:287: warning: implicit declaration of function 'xmlSaveToFd'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:288: warning: implicit declaration of function 'xmlSaveDoc'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:288: error: 'doc' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:289: warning: implicit declaration of function 'xmlSaveClose'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:301: error: 'xmlBufferPtr' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:301: error: expected ';' before 'buffer'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:302: warning: implicit declaration of function 'xmlSaveToBuffer'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:302: error: 'buffer' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:306: warning: implicit declaration of function 'xmlBufferFree'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:319: warning: implicit declaration of function 'xmlCleanupParser'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m: In function '-[ASIWebPageRequest readResourceURLs]':/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:344: error: 'xmlXPathContextPtr' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:344: error: expected ';' before 'xpathCtx'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:345: error: 'xpathCtx' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:351: error: 'xmlXPathObjectPtr' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:351: error: expected ';' before 'xpathObj'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:352: error: 'xpathObj' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:353: warning: implicit declaration of function 'xmlXPathFreeContext'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:359: error: 'xmlNodeSetPtr' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:359: error: expected ';' before 'nodes'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:361: error: 'nodes' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:368: error: 'xmlChar' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:368: error: 'nodeValue' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:368: warning: implicit declaration of function 'xmlNodeGetContent'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:370: warning: implicit declaration of function 'xmlFree'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:375: error: 'relAttribute' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:375: warning: implicit declaration of function 'xmlGetNoNsProp'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:375: error: expected expression before ')' token/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:403: error: 'XML_NAMESPACE_DECL' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:408: warning: implicit declaration of function 'xmlXPathFreeObject'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m: In function '-[ASIWebPageRequest updateResourceURLs]':/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:433: error: 'xmlXPathContextPtr' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:433: error: expected ';' before 'xpathCtx'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:434: error: 'xpathCtx' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:440: error: 'xmlXPathObjectPtr' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:440: error: expected ';' before 'xpathObj'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:441: error: 'xpathObj' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:448: error: 'xmlNodeSetPtr' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:448: error: expected ';' before 'nodes'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:449: error: 'nodes' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:456: error: 'xmlChar' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:456: error: 'nodeValue' undeclared (first use in this function)/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:471: warning: implicit declaration of function 'xmlNodeSetContent'/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:471: error: expected expression before ')' token/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:477: error: expected expression before ')' token/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:484: error: expected expression before ')' token/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m:488: error: 'XML_NAMESPACE_DECL' undeclared (first use in this function)62(4@46"Libxml/HTMLparser.h: No such file or directory315834640#82#117#2(7@77"In file included from /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#10#0#10#0#0"0(13@105"Libxml/HTMLparser.h: No such file or directory in /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#14#0#14#0#0"0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#14#0#14#0#28"*: No such file or directory0(4@43"Libxml/xmlsave.h: No such file or directory315834640#199#114#2(7@77"In file included from /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#10#0#10#0#0"0(13@102"Libxml/xmlsave.h: No such file or directory in /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#15#0#15#0#0"0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#15#0#15#0#28"*: No such file or directory0(4@41"Libxml/xpath.h: No such file or directory315834640#313#112#2(7@77"In file included from /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#10#0#10#0#0"0(13@100"Libxml/xpath.h: No such file or directory in /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#16#0#16#0#0"0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#16#0#16#0#28"*: No such file or directory0(4@50"Libxml/xpathInternals.h: No such file or directory315834640#425#121#2(7@77"In file included from /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#10#0#10#0#0"0(13@109"Libxml/xpathInternals.h: No such file or directory in /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#17#0#17#0#0"0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#17#0#17#0#28"*: No such file or directory0(4@52"Expected specifier-qualifier-list before 'xmlDocPtr'315834640#628#120#2(7@77"In file included from /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#10#0#10#0#0"0(13@111"Expected specifier-qualifier-list before 'xmlDocPtr' in /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h315834640#18446744073709551615#0#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#55#0#55#0#0"0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.h311347206#55#0#55#0#19"expected * before *0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token315834640#748#133#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#16#0#16#0#19"expected * before *0(22@48"Implicit declaration of function 'xmlInitParser'315834640#986#119#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#151#0#151#0#36"implicit declaration of function '*'0(4@45"'doc' undeclared (first use in this function)315834640#1105#114#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#158#0#158#0#43"'*' undeclared (first use in this function)0(22@47"Implicit declaration of function 'htmlReadFile'315834640#1439#118#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#158#0#158#0#36"implicit declaration of function '*'0(4@58"'HTML_PARSE_NONET' undeclared (first use in this function)315834640#1557#127#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#158#0#158#0#43"'*' undeclared (first use in this function)0(4@62"'HTML_PARSE_NOWARNING' undeclared (first use in this function)315834640#1684#131#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#158#0#158#0#43"'*' undeclared (first use in this function)0(4@60"'HTML_PARSE_NOERROR' undeclared (first use in this function)315834640#1815#129#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#158#0#158#0#43"'*' undeclared (first use in this function)0(22@49"Implicit declaration of function 'htmlReadMemory'315834640#1944#120#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#161#0#161#0#36"implicit declaration of function '*'0(22@45"Implicit declaration of function 'xmlFreeDoc'315834640#2064#116#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#175#0#175#0#36"implicit declaration of function '*'0(4@56"'xmlSaveCtxtPtr' undeclared (first use in this function)315834640#2308#125#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#284#0#284#0#43"'*' undeclared (first use in this function)0(4@33"Expected ';' before 'saveContext'315834640#2433#102#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#284#0#284#0#19"expected * before *0(4@53"'saveContext' undeclared (first use in this function)315834640#2535#122#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#287#0#287#0#43"'*' undeclared (first use in this function)0(22@46"Implicit declaration of function 'xmlSaveToFd'315834640#2657#117#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#287#0#287#0#36"implicit declaration of function '*'0(22@45"Implicit declaration of function 'xmlSaveDoc'315834640#2774#116#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#288#0#288#0#36"implicit declaration of function '*'0(4@45"'doc' undeclared (first use in this function)315834640#2890#114#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#288#0#288#0#43"'*' undeclared (first use in this function)0(22@47"Implicit declaration of function 'xmlSaveClose'315834640#3004#118#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#289#0#289#0#36"implicit declaration of function '*'0(4@54"'xmlBufferPtr' undeclared (first use in this function)315834640#3122#123#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#301#0#301#0#43"'*' undeclared (first use in this function)0(4@28"Expected ';' before 'buffer'315834640#3245#97#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#301#0#301#0#19"expected * before *0(22@50"Implicit declaration of function 'xmlSaveToBuffer'315834640#3342#121#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#302#0#302#0#36"implicit declaration of function '*'0(4@48"'buffer' undeclared (first use in this function)315834640#3463#117#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#302#0#302#0#43"'*' undeclared (first use in this function)0(22@48"Implicit declaration of function 'xmlBufferFree'315834640#3580#119#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#306#0#306#0#36"implicit declaration of function '*'0(22@51"Implicit declaration of function 'xmlCleanupParser'315834640#3699#122#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#319#0#319#0#36"implicit declaration of function '*'0(4@60"'xmlXPathContextPtr' undeclared (first use in this function)315834640#3931#129#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#344#0#344#0#43"'*' undeclared (first use in this function)0(4@30"Expected ';' before 'xpathCtx'315834640#4060#99#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#344#0#344#0#19"expected * before *0(4@50"'xpathCtx' undeclared (first use in this function)315834640#4159#119#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#345#0#345#0#43"'*' undeclared (first use in this function)0(4@59"'xmlXPathObjectPtr' undeclared (first use in this function)315834640#4278#128#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#351#0#351#0#43"'*' undeclared (first use in this function)0(4@30"Expected ';' before 'xpathObj'315834640#4406#99#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#351#0#351#0#19"expected * before *0(4@50"'xpathObj' undeclared (first use in this function)315834640#4505#119#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#352#0#352#0#43"'*' undeclared (first use in this function)0(22@54"Implicit declaration of function 'xmlXPathFreeContext'315834640#4624#125#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#353#0#353#0#36"implicit declaration of function '*'0(4@55"'xmlNodeSetPtr' undeclared (first use in this function)315834640#4749#124#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#359#0#359#0#43"'*' undeclared (first use in this function)0(4@27"Expected ';' before 'nodes'315834640#4873#96#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#359#0#359#0#19"expected * before *0(4@47"'nodes' undeclared (first use in this function)315834640#4969#116#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#361#0#361#0#43"'*' undeclared (first use in this function)0(4@49"'xmlChar' undeclared (first use in this function)315834640#5085#118#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#368#0#368#0#43"'*' undeclared (first use in this function)0(4@51"'nodeValue' undeclared (first use in this function)315834640#5203#120#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#368#0#368#0#43"'*' undeclared (first use in this function)0(22@52"Implicit declaration of function 'xmlNodeGetContent'315834640#5323#123#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#368#0#368#0#36"implicit declaration of function '*'0(22@42"Implicit declaration of function 'xmlFree'315834640#5446#113#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#370#0#370#0#36"implicit declaration of function '*'0(4@54"'relAttribute' undeclared (first use in this function)315834640#5559#123#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#375#0#375#0#43"'*' undeclared (first use in this function)0(22@49"Implicit declaration of function 'xmlGetNoNsProp'315834640#5682#120#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#375#0#375#0#36"implicit declaration of function '*'0(4@36"Expected expression before ')' token315834640#5802#105#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#375#0#375#0#19"expected * before *0(4@60"'XML_NAMESPACE_DECL' undeclared (first use in this function)315834640#5907#129#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#403#0#403#0#43"'*' undeclared (first use in this function)0(22@53"Implicit declaration of function 'xmlXPathFreeObject'315834640#6036#124#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#408#0#408#0#36"implicit declaration of function '*'0(4@60"'xmlXPathContextPtr' undeclared (first use in this function)315834640#6272#129#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#433#0#433#0#43"'*' undeclared (first use in this function)0(4@30"Expected ';' before 'xpathCtx'315834640#6401#99#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#433#0#433#0#19"expected * before *0(4@50"'xpathCtx' undeclared (first use in this function)315834640#6500#119#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#434#0#434#0#43"'*' undeclared (first use in this function)0(4@59"'xmlXPathObjectPtr' undeclared (first use in this function)315834640#6619#128#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#440#0#440#0#43"'*' undeclared (first use in this function)0(4@30"Expected ';' before 'xpathObj'315834640#6747#99#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#440#0#440#0#19"expected * before *0(4@50"'xpathObj' undeclared (first use in this function)315834640#6846#119#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#441#0#441#0#43"'*' undeclared (first use in this function)0(4@55"'xmlNodeSetPtr' undeclared (first use in this function)315834640#6965#124#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#448#0#448#0#43"'*' undeclared (first use in this function)0(4@27"Expected ';' before 'nodes'315834640#7089#96#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#448#0#448#0#19"expected * before *0(4@47"'nodes' undeclared (first use in this function)315834640#7185#116#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#449#0#449#0#43"'*' undeclared (first use in this function)0(4@49"'xmlChar' undeclared (first use in this function)315834640#7301#118#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#456#0#456#0#43"'*' undeclared (first use in this function)0(4@51"'nodeValue' undeclared (first use in this function)315834640#7419#120#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#456#0#456#0#43"'*' undeclared (first use in this function)0(22@52"Implicit declaration of function 'xmlNodeSetContent'315834640#7539#123#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#471#0#471#0#36"implicit declaration of function '*'0(4@36"Expected expression before ')' token315834640#7662#105#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#471#0#471#0#19"expected * before *0(4@36"Expected expression before ')' token315834640#7767#105#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#477#0#477#0#19"expected * before *0(4@36"Expected expression before ')' token315834640#7872#105#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#484#0#484#0#19"expected * before *0(4@60"'XML_NAMESPACE_DECL' undeclared (first use in this function)315834640#7977#129#0(6@55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m311347206#488#0#488#0#43"'*' undeclared (first use in this function)0(0#0#55"/Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m8617929664#2007"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIWebPageRequest.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/ASIWebPageRequest.o1#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBDialog.o /Users/jgank/Documents/QRGeneration/FBDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.917185
+e318885506.099226
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBDialog.o
+x/Users/jgank/Documents/QRGeneration/FBDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/jgank/Documents/QRGeneration/FBDialog.m318885505#318885506#0(0"0(0#0#46"/Users/jgank/Documents/QRGeneration/FBDialog.m8611831968#1989"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/FBDialog.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBDialog.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBLoginDialog.o /Users/jgank/Documents/QRGeneration/FBLoginDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.910183
+e318885505.993287
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBLoginDialog.o
+x/Users/jgank/Documents/QRGeneration/FBLoginDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/jgank/Documents/QRGeneration/FBLoginDialog.m318885505#318885505#0(0"0(0#0#51"/Users/jgank/Documents/QRGeneration/FBLoginDialog.m8613098240#1999"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/FBLoginDialog.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBLoginDialog.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBRequest.o /Users/jgank/Documents/QRGeneration/FBRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.872460
+e318885505.998244
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBRequest.o
+x/Users/jgank/Documents/QRGeneration/FBRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/jgank/Documents/QRGeneration/FBRequest.m318885505#318885505#0(0"0(0#0#47"/Users/jgank/Documents/QRGeneration/FBRequest.m8610806624#1991"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/FBRequest.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/FBRequest.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Facebook.o /Users/jgank/Documents/QRGeneration/Facebook.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.889690
+e318885506.022245
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Facebook.o
+x/Users/jgank/Documents/QRGeneration/Facebook.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/jgank/Documents/QRGeneration/Facebook.m318885505#318885506#0(0"0(0#0#46"/Users/jgank/Documents/QRGeneration/Facebook.m8610776384#1989"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Facebook.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Facebook.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318983690.558318
+e318983690.633079
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o
+x/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m318983690#318983690#0(0"0(0#0#64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m8632464544#2017"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSObject+SBJSON.o /Users/jgank/Documents/QRGeneration/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.751027
+e318885505.812557
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/jgank/Documents/QRGeneration/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/jgank/Documents/QRGeneration/JSON/NSObject+SBJSON.m318885505#318885505#0(0"0(0#0#58"/Users/jgank/Documents/QRGeneration/JSON/NSObject+SBJSON.m8613620032#2008"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/JSON/NSObject+SBJSON.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSString+SBJSON.o /Users/jgank/Documents/QRGeneration/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.793674
+e318885505.840312
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/jgank/Documents/QRGeneration/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/jgank/Documents/QRGeneration/JSON/NSString+SBJSON.m318885505#318885505#0(0"0(0#0#58"/Users/jgank/Documents/QRGeneration/JSON/NSString+SBJSON.m8612815680#2008"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/JSON/NSString+SBJSON.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318983690.557595
+e318983690.633886
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o
+x/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m318983690#318983690#0(0"0(0#0#69"/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m8634547488#2027"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerator.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318983690.559465
+e318983690.662603
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerator.o
+x/Users/jgank/Documents/QRGeneration/Classes/QRGenerator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jgank/Documents/QRGeneration/Classes/QRGenerator.m318983690#318983690#0(0"0(0#0#57"/Users/jgank/Documents/QRGeneration/Classes/QRGenerator.m8626971136#2003"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Classes/QRGenerator.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerator.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Reachability.o /Users/jgank/Documents/QRGeneration/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.700625
+e318885506.019437
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Reachability.o
+x/Users/jgank/Documents/QRGeneration/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/jgank/Documents/QRGeneration/Reachability.m318885505#318885506#0(0"0(0#0#50"/Users/jgank/Documents/QRGeneration/Reachability.m8612309856#1997"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Reachability.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJSON.o /Users/jgank/Documents/QRGeneration/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.812674
+e318885505.872269
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJSON.o
+x/Users/jgank/Documents/QRGeneration/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/jgank/Documents/QRGeneration/JSON/SBJSON.m318885505#318885505#0(0"0(0#0#49"/Users/jgank/Documents/QRGeneration/JSON/SBJSON.m8612604672#1990"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/JSON/SBJSON.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonBase.o /Users/jgank/Documents/QRGeneration/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.840427
+e318885505.889611
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonBase.o
+x/Users/jgank/Documents/QRGeneration/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/jgank/Documents/QRGeneration/JSON/SBJsonBase.m318885505#318885505#0(0"0(0#0#53"/Users/jgank/Documents/QRGeneration/JSON/SBJsonBase.m8612370208#1998"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/JSON/SBJsonBase.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonParser.o /Users/jgank/Documents/QRGeneration/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.851141
+e318885505.973431
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonParser.o
+x/Users/jgank/Documents/QRGeneration/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/jgank/Documents/QRGeneration/JSON/SBJsonParser.m318885505#318885505#0(0"0(0#0#55"/Users/jgank/Documents/QRGeneration/JSON/SBJsonParser.m8612016608#2002"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/JSON/SBJsonParser.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonWriter.o /Users/jgank/Documents/QRGeneration/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.852537
+e318885505.934195
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/jgank/Documents/QRGeneration/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/jgank/Documents/QRGeneration/JSON/SBJsonWriter.m318885505#318885505#0(0"0(0#0#55"/Users/jgank/Documents/QRGeneration/JSON/SBJsonWriter.m8611752672#2002"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/JSON/SBJsonWriter.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o /Users/jgank/Documents/QRGeneration/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885505.460002
+e318885505.675389
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o
+x/Users/jgank/Documents/QRGeneration/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/jgank/Documents/QRGeneration/main.m318885505#318885505#0(0"0(0#0#42"/Users/jgank/Documents/QRGeneration/main.m8613542816#1981"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/main.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+s318980484.443582
+e318980484.775293
+r1
+xCompileXIB
+x/Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+lSLF07#2@41"CompileXIB Classes/MainViewController.xib318980484#318980484#0(0"0(0#0#66"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib8624463168#590"    cd /Users/jgank/Documents/QRGeneration    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/MainViewController.nib /Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jgank/Documents/QRGeneration/MainWindow.xib
+s318885500.277647
+e318885504.368736
+r1
+xCompileXIB
+x/Users/jgank/Documents/QRGeneration/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318885500#318885504#0(0"0(0#0#50"/Users/jgank/Documents/QRGeneration/MainWindow.xib8610465152#566"    cd /Users/jgank/Documents/QRGeneration    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/MainWindow.nib /Users/jgank/Documents/QRGeneration/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/QRGeneration.app/FBDialog.bundle FBDialog.bundle
+s318812673.808597
+e318812673.868915
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QRGeneration.app/FBDialog.bundle
+xFBDialog.bundle
+lSLF07#2@20"Copy FBDialog.bundle318812673#318812673#0(0"0(0#0#51"/Users/jgank/Documents/QRGeneration/FBDialog.bundle8631235136#469"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jgank/Documents/QRGeneration/FBDialog.bundle /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app0#
+
+CDataModelVersionCompile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd /Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+s315833859.300681
+e315833859.422274
+r1
+xDataModelVersionCompile
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd
+x/Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+lSLF07#2@112"DataModelVersionCompile build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd QRGeneration.xcdatamodeld315833859#315833859#0(0"0(0#0#61"/Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld8611616928#392"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd0#
+
+CGenerateDSYMFile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+s318983690.725153
+e318983690.763501
+r1
+xGenerateDSYMFile
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/QRGeneration.app.dSYM build/Debug-iphonesimulator/QRGeneration.app/QRGeneration318983690#318983690#0(0"0(0#0#93"/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration8635432640#389"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration -o /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM0#
+
+CLd /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration normal i386
+s318983690.662667
+e318983690.725081
+r1
+xLd
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+xnormal
+xi386
+lSLF07#2@98"Link /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration318983690#318983690#0(0"0(0#0#0"8634025056#1022"    cd /Users/jgank/Documents/QRGeneration    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -filelist /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGeneration.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration0#
+
+CProcessInfoPlistFile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist QRGeneration-Info.plist
+s318887719.871140
+e318887719.887181
+r1
+xProcessInfoPlistFile
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist
+xQRGeneration-Info.plist
+lSLF07#2@31"Process QRGeneration-Info.plist318887719#318887719#0(0"0(0#0#59"/Users/jgank/Documents/QRGeneration/QRGeneration-Info.plist8609571360#485"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility QRGeneration-Info.plist -genpkginfo /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist0#
+
+CProcessPCH /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch QRGeneration_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315833857.260940
+e315833859.300495
+r1
+xProcessPCH
+x/var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch
+xQRGeneration_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile QRGeneration_Prefix.pch315833857#315833859#0(0"0(0#0#59"/Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch8611509664#1871"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -c /Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch -o /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch QRGeneration_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318885504.368890
+e318885505.459858
+r1
+xProcessPCH
+x/var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch
+xQRGeneration_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile QRGeneration_Prefix.pch318885504#318885505#0(0"0(0#0#59"/Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch8612314560#1871"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -c /Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch -o /var/folders/r-/r-ZTKWfkHtyYHCWzBslykU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch0#
+
+CTouch /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app
+s318983690.763564
+e318983690.765414
+r1
+xTouch
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app
+lSLF07#2@86"Touch /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app318983690#318983690#0(0"0(0#0#0"8635085952#277"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app0#
+

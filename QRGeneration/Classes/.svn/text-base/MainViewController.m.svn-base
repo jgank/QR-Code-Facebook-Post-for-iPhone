@@ -1,0 +1,130 @@
+//
+//  MainViewController.m
+//  QRGeneration
+//
+//  Created by Justin Knag on 1/4/11.
+//  Copyright 2011 Knag Enterprises. All rights reserved.
+//
+
+#import "MainViewController.h"
+#import "ASIFormDataRequest.h"
+#import "ASIHTTPRequest.h"
+
+
+@implementation MainViewController
+
+@synthesize inputID;
+
+// The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
+/*
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
+    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    if (self) {
+        // Custom initialization.
+    }
+    return self;
+}
+*/
+
+/*
+// Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
+- (void)viewDidLoad {
+    [super viewDidLoad];
+}
+*/
+
+/*
+// Override to allow orientations other than the default portrait orientation.
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
+    // Return YES for supported orientations.
+    return (interfaceOrientation == UIInterfaceOrientationPortrait);
+}
+*/
+
+- (IBAction) generateQR: (id) sender {
+	if (!networkQueue) {
+		networkQueue = [[ASINetworkQueue alloc] init];	
+	}
+	
+	[networkQueue reset];
+	NSString *linkShareLink = [NSString stringWithFormat:@"http://click.linksynergy.com/fs-bin/stat?id=z1T1SRTtDFU&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%%253A%%252F%%252Fitunes.apple.com%%252Fus%%252Fapp%%252Fid%@%%253Fmt%%253D8%%2526uo%%253D4%%2526partnerId%%253D30",inputID.text];
+	NSLog(@"Linkshare link is %@", linkShareLink);
+	
+	NSString * encodedUrlString = (NSString *)CFURLCreateStringByAddingPercentEscapes(
+																					  NULL,
+																					  (CFStringRef)linkShareLink,
+																					  NULL,
+																					  (CFStringRef)@"!*'();:@&=+$,/?%#[]",
+																					  kCFStringEncodingUTF8 );
+	linkShareLink = encodedUrlString;
+	
+	NSString *requestString = [NSString stringWithFormat:@"http://tinyurl.com/api-create.php?url=%@",linkShareLink];
+	NSLog(requestString);
+	ASIFormDataRequest *request = [ASIFormDataRequest requestWithURL:[NSURL URLWithString:requestString]];
+	NSString  *responseString = @"";
+	[request startSynchronous];
+	
+	if ([request error]) 
+	{
+		NSLog([[request error] localizedDescription]);
+	} 
+	else if ([request responseString]) 
+	{
+		responseString = [request responseString];
+		NSLog(@"responseString is %@",responseString);
+		linkShareLink = responseString;		
+		
+		[networkQueue setRequestDidFinishSelector:@selector(imageFetchComplete:)];
+		[networkQueue setRequestDidFailSelector:@selector(imageFetchFailed:)];
+		[networkQueue setDelegate:self];		 
+		ASIHTTPRequest *request1;
+		NSString *chartLink = [NSString stringWithFormat:@"http://chart.apis.google.com/chart?cht=qr&chl=%@&chs=120x120",linkShareLink];
+		request1 = [ASIHTTPRequest requestWithURL:[NSURL URLWithString:chartLink]];
+		[request1 setDownloadDestinationPath:[[NSHomeDirectory() stringByAppendingPathComponent:@"Documents"] stringByAppendingPathComponent:@"1.png"]];
+		[request1 setUserInfo:[NSDictionary dictionaryWithObject:@"request1" forKey:@"name"]];
+		[networkQueue addOperation:request1];		 
+		[networkQueue go];
+	}
+	
+}
+
+- (void)didReceiveMemoryWarning {
+    // Releases the view if it doesn't have a superview.
+    [super didReceiveMemoryWarning];
+    
+    // Release any cached data, images, etc. that aren't in use.
+}
+
+- (void)viewDidUnload {
+    [super viewDidUnload];
+    // Release any retained subviews of the main view.
+    // e.g. self.myOutlet = nil;
+}
+
+- (void)imageFetchComplete:(ASIHTTPRequest *)request
+{
+	NSLog(@"image fetch complete");
+	UIImage *img = [UIImage imageWithContentsOfFile:[request downloadDestinationPath]];
+	if (img) {
+		if ([QrView image]) {
+			[QrView setImage:img];
+			
+		} else {
+			[QrView setImage:img];
+		}
+	}
+	
+	
+}
+
+- (void)imageFetchFailed:(ASIHTTPRequest *)request
+{
+	NSLog(@"image fetch failed");
+}
+
+- (void)dealloc {
+    [super dealloc];
+}
+
+
+@end

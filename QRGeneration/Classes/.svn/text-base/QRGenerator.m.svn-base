@@ -1,0 +1,115 @@
+//
+//  QRGenerator.m
+//  QRGeneration
+//
+//  Created by Justin Knag on 2/7/11.
+//  Copyright 2011 Knag Enterprises. All rights reserved.
+//
+
+#import "QRGenerator.h"
+static NSString* kAppId = nil;
+
+
+@implementation QRGenerator
+
+@synthesize facebook = _facebook;
+
+
+-(id)init {
+	_permissions =  [[NSArray arrayWithObjects: @"read_stream", @"offline_access",nil] retain];
+	_facebook = [[Facebook alloc] initWithAppId:kAppId];
+}
+
+-(void)generateQR:(NSString*)appID {
+	if (!networkQueue) {
+		networkQueue = [[ASINetworkQueue alloc] init];	
+	}
+	
+	[networkQueue reset];
+	NSString *linkShareLink = [NSString stringWithFormat:@"http://click.linksynergy.com/fs-bin/stat?id=z1T1SRTtDFU&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%%253A%%252F%%252Fitunes.apple.com%%252Fus%%252Fapp%%252Fid%@%%253Fmt%%253D8%%2526uo%%253D4%%2526partnerId%%253D30",appID];
+	NSLog(@"Linkshare link is %@", linkShareLink);
+	
+	NSString * encodedUrlString = (NSString *)CFURLCreateStringByAddingPercentEscapes(
+																					  NULL,
+																					  (CFStringRef)linkShareLink,
+																					  NULL,
+																					  (CFStringRef)@"!*'();:@&=+$,/?%#[]",
+																					  kCFStringEncodingUTF8 );
+	linkShareLink = encodedUrlString;
+	
+	NSString *requestString = [NSString stringWithFormat:@"http://tinyurl.com/api-create.php?url=%@",linkShareLink];
+	NSLog(requestString);
+	ASIFormDataRequest *request = [ASIFormDataRequest requestWithURL:[NSURL URLWithString:requestString]];
+	NSString  *responseString = @"";
+	[request startSynchronous];
+	
+	if ([request error]) 
+	{
+		NSLog([[request error] localizedDescription]);
+	} 
+	else if ([request responseString]) 
+	{
+		responseString = [request responseString];
+		NSLog(@"responseString is %@",responseString);
+		linkShareLink = responseString;		
+		
+		[networkQueue setRequestDidFinishSelector:@selector(imageFetchComplete:)];
+		[networkQueue setRequestDidFailSelector:@selector(imageFetchFailed:)];
+		[networkQueue setDelegate:self];		 
+		ASIHTTPRequest *request1;
+		NSString *chartLink = [NSString stringWithFormat:@"http://chart.apis.google.com/chart?cht=qr&chl=%@&chs=120x120",linkShareLink];
+		request1 = [ASIHTTPRequest requestWithURL:[NSURL URLWithString:chartLink]];
+		[request1 setDownloadDestinationPath:[[NSHomeDirectory() stringByAppendingPathComponent:@"Documents"] stringByAppendingPathComponent:@"1.png"]];
+		[request1 setUserInfo:[NSDictionary dictionaryWithObject:@"request1" forKey:@"name"]];
+		[networkQueue addOperation:request1];		 
+		[networkQueue go];
+	}
+}
+
+
+- (void)postToFacebook {
+	SBJSON *jsonWriter = [[SBJSON new] autorelease];
+	NSDictionary* actionLinks = [NSArray arrayWithObjects:[NSDictionary dictionaryWithObjectsAndKeys:
+														   @"Time 4 Dinner",@"text",@"http://yougank.com/time4dinner/redirect.php",@"href", nil], nil];
+	NSString *actionLinksStr = [jsonWriter stringWithObject:actionLinks];
+	
+	
+	NSDictionary* attachment = [NSDictionary dictionaryWithObjectsAndKeys:
+								@"Time 4 Dinner", @"name",
+								@"High Tech Dinner Alerts", @"caption",
+								@"Alert every household member dinner is ready at the touch of a button!", @"description",
+								@"http://yougank.com/time4dinner/redirect.php", @"href",
+								[NSArray arrayWithObjects:
+								 [NSDictionary dictionaryWithObjectsAndKeys:
+								  @"image", @"type",
+								  @"http://www.gogle.com/", @"href",
+								  @"http://yougank.com/time4dinner/t4d512.png", @"src",nil]
+								 , nil ]
+								,@"media", nil];
+	
+	NSString *attachmentStr = [jsonWriter stringWithObject:attachment];
+	
+	NSMutableDictionary* params = [NSMutableDictionary dictionaryWithObjectsAndKeys:
+								   @"Share on Facebook",  @"user_message_prompt",
+								   actionLinksStr, @"action_links",
+								   attachmentStr, @"attachment",
+								   nil];
+	[NSMutableDictionary dictionaryWithObjectsAndKeys: kAppId, @"api_key", @"Share on Facebook", @"user_message_prompt", actionLinksStr, @"action_links", attachmentStr, @"attachment", nil];
+	[_facebook dialog: @"stream.publish" andParams: params andDelegate:self];
+}
+
+- (void)imageFetchComplete:(ASIHTTPRequest *)request
+{
+	NSLog(@"image fetch complete");
+	UIImage *img = [UIImage imageWithContentsOfFile:[request downloadDestinationPath]];
+	if (img) {
+		[self postToFacebook];
+	}
+}
+
+- (void)imageFetchFailed:(ASIHTTPRequest *)request
+{
+	NSLog(@"image fetch failed");
+}
+
+@end

@@ -1,0 +1,27 @@
+//
+//  QRGenerator.h
+//  QRGeneration
+//
+//  Created by Justin Knag on 2/7/11.
+//  Copyright 2011 Knag Enterprises. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "ASINetworkQueue.h"
+#import "FBConnect.h"
+#import "ASIFormDataRequest.h"
+#import "ASIHTTPRequest.h"
+
+
+@interface QRGenerator : NSObject {
+	ASINetworkQueue *networkQueue;
+	Facebook* _facebook;
+	NSArray* _permissions;
+}
+
+@property (readonly) Facebook *facebook;
+
+-(void)generateQR:(NSString*)appID;
+-(void)postToFacebook;
+
+@end

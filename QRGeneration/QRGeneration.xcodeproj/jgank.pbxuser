@@ -1,0 +1,2933 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 718}}";
+			sepNavSelRange = "{1255, 0}";
+			sepNavVisRange = "{0, 1680}";
+		};
+	};
+	1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1365}}";
+			sepNavSelRange = "{1254, 0}";
+			sepNavVisRange = "{53, 2614}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* QRGeneration */ = {
+		activeExec = 0;
+		executables = (
+			EF9D373112D33C1D00D81345 /* QRGeneration */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EF9D373112D33C1D00D81345 /* QRGeneration */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* QRGeneration */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* QRGeneration */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = EF9D374C12D33C3A00D81345 /* Code sense */;
+		executables = (
+			EF9D373112D33C1D00D81345 /* QRGeneration */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					935,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318970765;
+			PBXWorkspaceStateSaveDate = 318970765;
+		};
+		perUserProjectItems = {
+			EF6C061C1301DDC6005EE35A = EF6C061C1301DDC6005EE35A /* PBXTextBookmark */;
+			EF98646E1301DAE300AA0642 = EF98646E1301DAE300AA0642 /* PlistBookmark */;
+			EF98646F1301DAE300AA0642 = EF98646F1301DAE300AA0642 /* PBXTextBookmark */;
+			EF9864701301DAE300AA0642 = EF9864701301DAE300AA0642 /* PBXTextBookmark */;
+			EF9864741301DAE300AA0642 = EF9864741301DAE300AA0642 /* PBXTextBookmark */;
+			EF9864751301DAE300AA0642 = EF9864751301DAE300AA0642 /* PBXTextBookmark */;
+			EF9B649E1300AAAD00DC812C = EF9B649E1300AAAD00DC812C /* PBXTextBookmark */;
+			EFA8C9C913030A31000F8056 = EFA8C9C913030A31000F8056 /* PBXTextBookmark */;
+			EFA8C9CA13030A31000F8056 = EFA8C9CA13030A31000F8056 /* PBXTextBookmark */;
+			EFA8CA071303192A000F8056 = EFA8CA071303192A000F8056 /* PBXTextBookmark */;
+			EFA8CA0E13031947000F8056 = EFA8CA0E13031947000F8056 /* PBXTextBookmark */;
+			EFA8CA0F13031947000F8056 = EFA8CA0F13031947000F8056 /* PBXTextBookmark */;
+			EFA8CA1013031947000F8056 = EFA8CA1013031947000F8056 /* PBXTextBookmark */;
+			EFA8CA1113031947000F8056 = EFA8CA1113031947000F8056 /* PBXTextBookmark */;
+			EFA8CA2E130319CE000F8056 = EFA8CA2E130319CE000F8056 /* PBXTextBookmark */;
+			EFA8CA2F130319CE000F8056 = EFA8CA2F130319CE000F8056 /* PBXTextBookmark */;
+			EFA8CA30130319CE000F8056 = EFA8CA30130319CE000F8056 /* PBXTextBookmark */;
+			EFC0666C1303279400CC17DA /* XCBuildMessageTextBookmark */ = EFC0666C1303279400CC17DA /* XCBuildMessageTextBookmark */;
+			EFC0667D1303349B00CC17DA /* PBXTextBookmark */ = EFC0667D1303349B00CC17DA /* PBXTextBookmark */;
+			EFC0667E1303349B00CC17DA /* PBXTextBookmark */ = EFC0667E1303349B00CC17DA /* PBXTextBookmark */;
+			EFC0667F1303349B00CC17DA /* PBXTextBookmark */ = EFC0667F1303349B00CC17DA /* PBXTextBookmark */;
+			EFC066801303349B00CC17DA /* PBXTextBookmark */ = EFC066801303349B00CC17DA /* PBXTextBookmark */;
+			EFC066811303349B00CC17DA /* PBXTextBookmark */ = EFC066811303349B00CC17DA /* PBXTextBookmark */;
+			EFC066861303349B00CC17DA /* PBXTextBookmark */ = EFC066861303349B00CC17DA /* PBXTextBookmark */;
+			EFC066871303349B00CC17DA /* PBXTextBookmark */ = EFC066871303349B00CC17DA /* PBXTextBookmark */;
+			EFC066881303349B00CC17DA /* PBXTextBookmark */ = EFC066881303349B00CC17DA /* PBXTextBookmark */;
+			EFC06695130334FF00CC17DA /* PBXTextBookmark */ = EFC06695130334FF00CC17DA /* PBXTextBookmark */;
+			EFC06696130334FF00CC17DA /* PBXTextBookmark */ = EFC06696130334FF00CC17DA /* PBXTextBookmark */;
+			EFC06697130334FF00CC17DA /* PBXTextBookmark */ = EFC06697130334FF00CC17DA /* PBXTextBookmark */;
+			EFC06698130334FF00CC17DA /* PBXTextBookmark */ = EFC06698130334FF00CC17DA /* PBXTextBookmark */;
+			EFC06699130334FF00CC17DA /* PBXTextBookmark */ = EFC06699130334FF00CC17DA /* PBXTextBookmark */;
+			EFC0669A130334FF00CC17DA /* PBXTextBookmark */ = EFC0669A130334FF00CC17DA /* PBXTextBookmark */;
+			EFC0669F1303354C00CC17DA /* PBXTextBookmark */ = EFC0669F1303354C00CC17DA /* PBXTextBookmark */;
+			EFC066A01303354C00CC17DA /* PBXTextBookmark */ = EFC066A01303354C00CC17DA /* PBXTextBookmark */;
+			EFC066A11303354C00CC17DA /* PBXTextBookmark */ = EFC066A11303354C00CC17DA /* PBXTextBookmark */;
+			EFC066A21303354C00CC17DA /* PBXTextBookmark */ = EFC066A21303354C00CC17DA /* PBXTextBookmark */;
+			EFC066A31303354C00CC17DA /* PBXTextBookmark */ = EFC066A31303354C00CC17DA /* PBXTextBookmark */;
+			EFC066A41303354C00CC17DA /* PBXTextBookmark */ = EFC066A41303354C00CC17DA /* PBXTextBookmark */;
+			EFC066A51303354C00CC17DA /* PBXTextBookmark */ = EFC066A51303354C00CC17DA /* PBXTextBookmark */;
+			EFC066A61303354C00CC17DA /* PBXTextBookmark */ = EFC066A61303354C00CC17DA /* PBXTextBookmark */;
+			EFC066A91303355B00CC17DA /* PBXTextBookmark */ = EFC066A91303355B00CC17DA /* PBXTextBookmark */;
+			EFC066AA1303355B00CC17DA /* PBXTextBookmark */ = EFC066AA1303355B00CC17DA /* PBXTextBookmark */;
+			EFC066AB1303355B00CC17DA /* PBXTextBookmark */ = EFC066AB1303355B00CC17DA /* PBXTextBookmark */;
+			EFC066AC1303355B00CC17DA /* PBXTextBookmark */ = EFC066AC1303355B00CC17DA /* PBXTextBookmark */;
+			EFC066AF130335CE00CC17DA /* PBXTextBookmark */ = EFC066AF130335CE00CC17DA /* PBXTextBookmark */;
+			EFC066B0130335CE00CC17DA /* PBXTextBookmark */ = EFC066B0130335CE00CC17DA /* PBXTextBookmark */;
+			EFC066B1130335CE00CC17DA /* PBXTextBookmark */ = EFC066B1130335CE00CC17DA /* PBXTextBookmark */;
+			EFC066B2130335CE00CC17DA /* PBXTextBookmark */ = EFC066B2130335CE00CC17DA /* PBXTextBookmark */;
+			EFC066B3130335CE00CC17DA /* PBXTextBookmark */ = EFC066B3130335CE00CC17DA /* PBXTextBookmark */;
+			EFC066B4130335CE00CC17DA /* PBXTextBookmark */ = EFC066B4130335CE00CC17DA /* PBXTextBookmark */;
+			EFC066B5130335CE00CC17DA /* PBXTextBookmark */ = EFC066B5130335CE00CC17DA /* PBXTextBookmark */;
+			EFC066B91303365100CC17DA /* PBXTextBookmark */ = EFC066B91303365100CC17DA /* PBXTextBookmark */;
+			EFC066BA1303365100CC17DA /* PBXTextBookmark */ = EFC066BA1303365100CC17DA /* PBXTextBookmark */;
+			EFC066BB1303365100CC17DA /* PBXTextBookmark */ = EFC066BB1303365100CC17DA /* PBXTextBookmark */;
+			EFC066BC1303365100CC17DA /* PBXTextBookmark */ = EFC066BC1303365100CC17DA /* PBXTextBookmark */;
+			EFC066BD1303365100CC17DA /* PBXTextBookmark */ = EFC066BD1303365100CC17DA /* PBXTextBookmark */;
+			EFC066BE1303365100CC17DA /* PBXTextBookmark */ = EFC066BE1303365100CC17DA /* PBXTextBookmark */;
+			EFC066BF1303365100CC17DA /* PBXTextBookmark */ = EFC066BF1303365100CC17DA /* PBXTextBookmark */;
+			EFC066C01303365100CC17DA /* PBXTextBookmark */ = EFC066C01303365100CC17DA /* PBXTextBookmark */;
+			EFC066C3130336D500CC17DA /* PBXTextBookmark */ = EFC066C3130336D500CC17DA /* PBXTextBookmark */;
+			EFC066C4130336D500CC17DA /* PBXTextBookmark */ = EFC066C4130336D500CC17DA /* PBXTextBookmark */;
+			EFC066C5130336D500CC17DA /* PBXTextBookmark */ = EFC066C5130336D500CC17DA /* PBXTextBookmark */;
+			EFC066C6130336D500CC17DA /* PBXTextBookmark */ = EFC066C6130336D500CC17DA /* PBXTextBookmark */;
+			EFC066C7130336D500CC17DA /* PBXTextBookmark */ = EFC066C7130336D500CC17DA /* PBXTextBookmark */;
+			EFC066C8130336D500CC17DA /* PBXTextBookmark */ = EFC066C8130336D500CC17DA /* PBXTextBookmark */;
+			EFC066D1130337BB00CC17DA /* PBXTextBookmark */ = EFC066D1130337BB00CC17DA /* PBXTextBookmark */;
+			EFC066D2130337BB00CC17DA /* PBXTextBookmark */ = EFC066D2130337BB00CC17DA /* PBXTextBookmark */;
+			EFC066D3130337BB00CC17DA /* PBXTextBookmark */ = EFC066D3130337BB00CC17DA /* PBXTextBookmark */;
+			EFC066D4130337BB00CC17DA /* PBXTextBookmark */ = EFC066D4130337BB00CC17DA /* PBXTextBookmark */;
+			EFC066D5130337BB00CC17DA /* PBXTextBookmark */ = EFC066D5130337BB00CC17DA /* PBXTextBookmark */;
+			EFC066D6130337BB00CC17DA /* PBXTextBookmark */ = EFC066D6130337BB00CC17DA /* PBXTextBookmark */;
+			EFC066D7130337BB00CC17DA /* PBXTextBookmark */ = EFC066D7130337BB00CC17DA /* PBXTextBookmark */;
+			EFC066D8130337BB00CC17DA /* PBXTextBookmark */ = EFC066D8130337BB00CC17DA /* PBXTextBookmark */;
+			EFC066DB130337D300CC17DA /* PBXTextBookmark */ = EFC066DB130337D300CC17DA /* PBXTextBookmark */;
+			EFC066DC130337D300CC17DA /* PBXTextBookmark */ = EFC066DC130337D300CC17DA /* PBXTextBookmark */;
+			EFC066DD130337D300CC17DA /* PBXTextBookmark */ = EFC066DD130337D300CC17DA /* PBXTextBookmark */;
+			EFC066DE130337D300CC17DA /* PBXTextBookmark */ = EFC066DE130337D300CC17DA /* PBXTextBookmark */;
+			EFC066E1130337F700CC17DA /* PBXTextBookmark */ = EFC066E1130337F700CC17DA /* PBXTextBookmark */;
+			EFC066E2130337F700CC17DA /* PBXTextBookmark */ = EFC066E2130337F700CC17DA /* PBXTextBookmark */;
+			EFC066E3130337F700CC17DA /* PBXTextBookmark */ = EFC066E3130337F700CC17DA /* PBXTextBookmark */;
+			EFC066E4130337F700CC17DA /* PBXTextBookmark */ = EFC066E4130337F700CC17DA /* PBXTextBookmark */;
+			EFC066E71303382F00CC17DA /* PBXTextBookmark */ = EFC066E71303382F00CC17DA /* PBXTextBookmark */;
+			EFC066E81303382F00CC17DA /* PBXTextBookmark */ = EFC066E81303382F00CC17DA /* PBXTextBookmark */;
+			EFC066E91303382F00CC17DA /* PBXTextBookmark */ = EFC066E91303382F00CC17DA /* PBXTextBookmark */;
+			EFC066EA1303382F00CC17DA /* PBXTextBookmark */ = EFC066EA1303382F00CC17DA /* PBXTextBookmark */;
+			EFC066EB1303382F00CC17DA /* PBXTextBookmark */ = EFC066EB1303382F00CC17DA /* PBXTextBookmark */;
+			EFC066EC1303382F00CC17DA /* PBXTextBookmark */ = EFC066EC1303382F00CC17DA /* PBXTextBookmark */;
+			EFC066EF130338A100CC17DA /* PBXTextBookmark */ = EFC066EF130338A100CC17DA /* PBXTextBookmark */;
+			EFC066F0130338A100CC17DA /* PBXTextBookmark */ = EFC066F0130338A100CC17DA /* PBXTextBookmark */;
+			EFC066F1130338A100CC17DA /* PBXTextBookmark */ = EFC066F1130338A100CC17DA /* PBXTextBookmark */;
+			EFC066F2130338A100CC17DA /* PBXTextBookmark */ = EFC066F2130338A100CC17DA /* PBXTextBookmark */;
+			EFC066F3130338A100CC17DA /* PBXTextBookmark */ = EFC066F3130338A100CC17DA /* PBXTextBookmark */;
+			EFC066F4130338A100CC17DA /* PBXTextBookmark */ = EFC066F4130338A100CC17DA /* PBXTextBookmark */;
+			EFC066F5130338A100CC17DA /* PBXTextBookmark */ = EFC066F5130338A100CC17DA /* PBXTextBookmark */;
+			EFC066F8130338AF00CC17DA /* PBXTextBookmark */ = EFC066F8130338AF00CC17DA /* PBXTextBookmark */;
+			EFC066F9130338AF00CC17DA /* PBXTextBookmark */ = EFC066F9130338AF00CC17DA /* PBXTextBookmark */;
+			EFC066FA130338AF00CC17DA /* PBXTextBookmark */ = EFC066FA130338AF00CC17DA /* PBXTextBookmark */;
+			EFC066FB130338AF00CC17DA /* PBXTextBookmark */ = EFC066FB130338AF00CC17DA /* PBXTextBookmark */;
+			EFC066FF1303391400CC17DA /* PBXTextBookmark */ = EFC066FF1303391400CC17DA /* PBXTextBookmark */;
+			EFC067001303391400CC17DA /* PBXTextBookmark */ = EFC067001303391400CC17DA /* PBXTextBookmark */;
+			EFC067011303391400CC17DA /* PBXTextBookmark */ = EFC067011303391400CC17DA /* PBXTextBookmark */;
+			EFC067021303391400CC17DA /* PBXTextBookmark */ = EFC067021303391400CC17DA /* PBXTextBookmark */;
+			EFC067031303391400CC17DA /* PBXTextBookmark */ = EFC067031303391400CC17DA /* PBXTextBookmark */;
+			EFC067041303391400CC17DA /* PBXTextBookmark */ = EFC067041303391400CC17DA /* PBXTextBookmark */;
+			EFC067051303391400CC17DA /* PBXTextBookmark */ = EFC067051303391400CC17DA /* PBXTextBookmark */;
+			EFC0670A13033B7400CC17DA /* PBXTextBookmark */ = EFC0670A13033B7400CC17DA /* PBXTextBookmark */;
+			EFC0670B13033B7400CC17DA /* PBXTextBookmark */ = EFC0670B13033B7400CC17DA /* PBXTextBookmark */;
+			EFC0670C13033B7400CC17DA /* PBXTextBookmark */ = EFC0670C13033B7400CC17DA /* PBXTextBookmark */;
+			EFC0670D13033B7400CC17DA /* PBXTextBookmark */ = EFC0670D13033B7400CC17DA /* PBXTextBookmark */;
+			EFC0670E13033B7500CC17DA /* PBXTextBookmark */ = EFC0670E13033B7500CC17DA /* PBXTextBookmark */;
+			EFC0670F13033B7500CC17DA /* PBXTextBookmark */ = EFC0670F13033B7500CC17DA /* PBXTextBookmark */;
+			EFC0671213033C0A00CC17DA /* PBXTextBookmark */ = EFC0671213033C0A00CC17DA /* PBXTextBookmark */;
+			EFC0671313033C0A00CC17DA /* PBXTextBookmark */ = EFC0671313033C0A00CC17DA /* PBXTextBookmark */;
+			EFC0671413033C0A00CC17DA /* PBXTextBookmark */ = EFC0671413033C0A00CC17DA /* PBXTextBookmark */;
+			EFC0671513033C0A00CC17DA /* PBXTextBookmark */ = EFC0671513033C0A00CC17DA /* PBXTextBookmark */;
+			EFC0671613033C0A00CC17DA /* PBXTextBookmark */ = EFC0671613033C0A00CC17DA /* PBXTextBookmark */;
+			EFC0671713033C0A00CC17DA /* PBXTextBookmark */ = EFC0671713033C0A00CC17DA /* PBXTextBookmark */;
+			EFC0671813033C4B00CC17DA /* PBXBookmark */ = EFC0671813033C4B00CC17DA /* PBXBookmark */;
+			EFC0671B13033D1F00CC17DA /* PBXTextBookmark */ = EFC0671B13033D1F00CC17DA /* PBXTextBookmark */;
+			EFC0671C13033D1F00CC17DA /* PBXTextBookmark */ = EFC0671C13033D1F00CC17DA /* PBXTextBookmark */;
+			EFC0671D13033D1F00CC17DA /* PBXTextBookmark */ = EFC0671D13033D1F00CC17DA /* PBXTextBookmark */;
+			EFC0672013033D1F00CC17DA /* PBXTextBookmark */ = EFC0672013033D1F00CC17DA /* PBXTextBookmark */;
+			EFC0672113033D1F00CC17DA /* PBXTextBookmark */ = EFC0672113033D1F00CC17DA /* PBXTextBookmark */;
+			EFC0672213033D1F00CC17DA /* PBXTextBookmark */ = EFC0672213033D1F00CC17DA /* PBXTextBookmark */;
+			EFC0672513033F0B00CC17DA /* PBXTextBookmark */ = EFC0672513033F0B00CC17DA /* PBXTextBookmark */;
+			EFC0672613033F0B00CC17DA /* PBXTextBookmark */ = EFC0672613033F0B00CC17DA /* PBXTextBookmark */;
+			EFC0672713033F0B00CC17DA /* PBXTextBookmark */ = EFC0672713033F0B00CC17DA /* PBXTextBookmark */;
+			EFC0672813033F0B00CC17DA /* PBXTextBookmark */ = EFC0672813033F0B00CC17DA /* PBXTextBookmark */;
+			EFC0672913033F0B00CC17DA /* PBXTextBookmark */ = EFC0672913033F0B00CC17DA /* PBXTextBookmark */;
+			EFC0672A13033F0B00CC17DA /* PBXTextBookmark */ = EFC0672A13033F0B00CC17DA /* PBXTextBookmark */;
+			EFC0672D13033F6B00CC17DA /* PBXTextBookmark */ = EFC0672D13033F6B00CC17DA /* PBXTextBookmark */;
+			EFC0672E13033F6B00CC17DA /* PBXTextBookmark */ = EFC0672E13033F6B00CC17DA /* PBXTextBookmark */;
+			EFC0672F13033F6B00CC17DA /* PBXTextBookmark */ = EFC0672F13033F6B00CC17DA /* PBXTextBookmark */;
+			EFC0673013033F6B00CC17DA /* PBXTextBookmark */ = EFC0673013033F6B00CC17DA /* PBXTextBookmark */;
+			EFC0673313033F7C00CC17DA /* PBXTextBookmark */ = EFC0673313033F7C00CC17DA /* PBXTextBookmark */;
+			EFC0673413033F7C00CC17DA /* PBXTextBookmark */ = EFC0673413033F7C00CC17DA /* PBXTextBookmark */;
+			EFC0673513033F7C00CC17DA /* PBXTextBookmark */ = EFC0673513033F7C00CC17DA /* PBXTextBookmark */;
+			EFC0673613033F7C00CC17DA /* PBXTextBookmark */ = EFC0673613033F7C00CC17DA /* PBXTextBookmark */;
+			EFC0673913033F9400CC17DA /* PBXTextBookmark */ = EFC0673913033F9400CC17DA /* PBXTextBookmark */;
+			EFC0673A13033F9400CC17DA /* PBXTextBookmark */ = EFC0673A13033F9400CC17DA /* PBXTextBookmark */;
+			EFC0673B13033F9400CC17DA /* PBXTextBookmark */ = EFC0673B13033F9400CC17DA /* PBXTextBookmark */;
+			EFC0673C13033F9400CC17DA /* PBXTextBookmark */ = EFC0673C13033F9400CC17DA /* PBXTextBookmark */;
+			EFC0673F13033FCB00CC17DA /* PBXTextBookmark */ = EFC0673F13033FCB00CC17DA /* PBXTextBookmark */;
+			EFC0674013033FCB00CC17DA /* PBXTextBookmark */ = EFC0674013033FCB00CC17DA /* PBXTextBookmark */;
+			EFC0674113033FCB00CC17DA /* PBXTextBookmark */ = EFC0674113033FCB00CC17DA /* PBXTextBookmark */;
+			EFC0674213033FCB00CC17DA /* PBXTextBookmark */ = EFC0674213033FCB00CC17DA /* PBXTextBookmark */;
+			EFC067451303402F00CC17DA /* PBXTextBookmark */ = EFC067451303402F00CC17DA /* PBXTextBookmark */;
+			EFC067461303402F00CC17DA /* PBXTextBookmark */ = EFC067461303402F00CC17DA /* PBXTextBookmark */;
+			EFC067471303402F00CC17DA /* PBXTextBookmark */ = EFC067471303402F00CC17DA /* PBXTextBookmark */;
+			EFC067481303402F00CC17DA /* PBXTextBookmark */ = EFC067481303402F00CC17DA /* PBXTextBookmark */;
+			EFC0674D1303413D00CC17DA /* PBXTextBookmark */ = EFC0674D1303413D00CC17DA /* PBXTextBookmark */;
+			EFC0674E1303413D00CC17DA /* PBXTextBookmark */ = EFC0674E1303413D00CC17DA /* PBXTextBookmark */;
+			EFC0674F1303413D00CC17DA /* PBXTextBookmark */ = EFC0674F1303413D00CC17DA /* PBXTextBookmark */;
+			EFC067501303413D00CC17DA /* PBXTextBookmark */ = EFC067501303413D00CC17DA /* PBXTextBookmark */;
+			EFC067511303413D00CC17DA /* PBXTextBookmark */ = EFC067511303413D00CC17DA /* PBXTextBookmark */;
+			EFC067521303413D00CC17DA /* PBXTextBookmark */ = EFC067521303413D00CC17DA /* PBXTextBookmark */;
+			EFC067541303417700CC17DA /* PBXTextBookmark */ = EFC067541303417700CC17DA /* PBXTextBookmark */;
+			EFC067551303417700CC17DA /* PBXTextBookmark */ = EFC067551303417700CC17DA /* PBXTextBookmark */;
+			EFC067561303417700CC17DA /* PBXTextBookmark */ = EFC067561303417700CC17DA /* PBXTextBookmark */;
+			EFC067571303417700CC17DA /* PBXTextBookmark */ = EFC067571303417700CC17DA /* PBXTextBookmark */;
+			EFC067581303417700CC17DA /* PBXTextBookmark */ = EFC067581303417700CC17DA /* PBXTextBookmark */;
+			EFC067591303417700CC17DA /* PBXTextBookmark */ = EFC067591303417700CC17DA /* PBXTextBookmark */;
+			EFC0675E1303420400CC17DA /* PBXTextBookmark */ = EFC0675E1303420400CC17DA /* PBXTextBookmark */;
+			EFC0675F1303420400CC17DA /* PBXTextBookmark */ = EFC0675F1303420400CC17DA /* PBXTextBookmark */;
+			EFC067601303420400CC17DA /* PBXTextBookmark */ = EFC067601303420400CC17DA /* PBXTextBookmark */;
+			EFC067611303420400CC17DA /* PBXTextBookmark */ = EFC067611303420400CC17DA /* PBXTextBookmark */;
+			EFC067621303420400CC17DA /* PBXTextBookmark */ = EFC067621303420400CC17DA /* PBXTextBookmark */;
+			EFC067631303420400CC17DA /* PBXTextBookmark */ = EFC067631303420400CC17DA /* PBXTextBookmark */;
+			EFC067641303420400CC17DA /* PBXTextBookmark */ = EFC067641303420400CC17DA /* PBXTextBookmark */;
+			EFC067651303420400CC17DA /* PBXTextBookmark */ = EFC067651303420400CC17DA /* PBXTextBookmark */;
+			EFC0676A1303426200CC17DA /* PBXTextBookmark */ = EFC0676A1303426200CC17DA /* PBXTextBookmark */;
+			EFC0676B1303426200CC17DA /* PBXTextBookmark */ = EFC0676B1303426200CC17DA /* PBXTextBookmark */;
+			EFC0676C1303426200CC17DA /* PBXTextBookmark */ = EFC0676C1303426200CC17DA /* PBXTextBookmark */;
+			EFC0676D1303426200CC17DA /* PBXTextBookmark */ = EFC0676D1303426200CC17DA /* PBXTextBookmark */;
+			EFC067701303429800CC17DA /* PBXTextBookmark */ = EFC067701303429800CC17DA /* PBXTextBookmark */;
+			EFC067711303429800CC17DA /* PBXTextBookmark */ = EFC067711303429800CC17DA /* PBXTextBookmark */;
+			EFC067721303429800CC17DA /* PBXTextBookmark */ = EFC067721303429800CC17DA /* PBXTextBookmark */;
+			EFC067731303429800CC17DA /* PBXTextBookmark */ = EFC067731303429800CC17DA /* PBXTextBookmark */;
+			EFC0677A1303450200CC17DA /* PBXTextBookmark */ = EFC0677A1303450200CC17DA /* PBXTextBookmark */;
+			EFC0677B1303450200CC17DA /* PBXTextBookmark */ = EFC0677B1303450200CC17DA /* PBXTextBookmark */;
+			EFC0677C1303450200CC17DA /* PBXTextBookmark */ = EFC0677C1303450200CC17DA /* PBXTextBookmark */;
+			EFC0677D1303450200CC17DA /* PBXTextBookmark */ = EFC0677D1303450200CC17DA /* PBXTextBookmark */;
+			EFC0677E1303450200CC17DA /* PBXTextBookmark */ = EFC0677E1303450200CC17DA /* PBXTextBookmark */;
+			EFC0677F1303450200CC17DA /* PBXTextBookmark */ = EFC0677F1303450200CC17DA /* PBXTextBookmark */;
+			EFC067801303450200CC17DA /* PBXTextBookmark */ = EFC067801303450200CC17DA /* PBXTextBookmark */;
+			EFC067811303450200CC17DA /* PBXTextBookmark */ = EFC067811303450200CC17DA /* PBXTextBookmark */;
+			EFC067821303450200CC17DA /* PBXTextBookmark */ = EFC067821303450200CC17DA /* PBXTextBookmark */;
+			EFC067871303455E00CC17DA /* PBXTextBookmark */ = EFC067871303455E00CC17DA /* PBXTextBookmark */;
+			EFC067881303455E00CC17DA /* PBXTextBookmark */ = EFC067881303455E00CC17DA /* PBXTextBookmark */;
+			EFC067891303455E00CC17DA /* PBXTextBookmark */ = EFC067891303455E00CC17DA /* PBXTextBookmark */;
+			EFC0678A1303455E00CC17DA /* PBXTextBookmark */ = EFC0678A1303455E00CC17DA /* PBXTextBookmark */;
+			EFC0678B1303455E00CC17DA /* PBXTextBookmark */ = EFC0678B1303455E00CC17DA /* PBXTextBookmark */;
+			EFC0678C1303455E00CC17DA /* PBXTextBookmark */ = EFC0678C1303455E00CC17DA /* PBXTextBookmark */;
+			EFC0678F1303456700CC17DA /* PBXTextBookmark */ = EFC0678F1303456700CC17DA /* PBXTextBookmark */;
+			EFC067901303456700CC17DA /* PBXTextBookmark */ = EFC067901303456700CC17DA /* PBXTextBookmark */;
+			EFC067911303456700CC17DA /* PBXTextBookmark */ = EFC067911303456700CC17DA /* PBXTextBookmark */;
+			EFC067921303456700CC17DA /* PBXTextBookmark */ = EFC067921303456700CC17DA /* PBXTextBookmark */;
+			EFC067931303457900CC17DA /* XCBuildMessageTextBookmark */ = EFC067931303457900CC17DA /* XCBuildMessageTextBookmark */;
+			EFC067961303458700CC17DA /* PBXTextBookmark */ = EFC067961303458700CC17DA /* PBXTextBookmark */;
+			EFC067991303458700CC17DA /* PBXTextBookmark */ = EFC067991303458700CC17DA /* PBXTextBookmark */;
+			EFC0679A1303458700CC17DA /* PBXTextBookmark */ = EFC0679A1303458700CC17DA /* PBXTextBookmark */;
+			EFC0679B1303458700CC17DA /* PBXTextBookmark */ = EFC0679B1303458700CC17DA /* PBXTextBookmark */;
+			EFC0679C1303458700CC17DA /* PBXTextBookmark */ = EFC0679C1303458700CC17DA /* PBXTextBookmark */;
+			EFC0679D1303458D00CC17DA /* XCBuildMessageTextBookmark */ = EFC0679D1303458D00CC17DA /* XCBuildMessageTextBookmark */;
+			EFC067A01303459D00CC17DA /* PBXTextBookmark */ = EFC067A01303459D00CC17DA /* PBXTextBookmark */;
+			EFC067A11303459D00CC17DA /* PBXTextBookmark */ = EFC067A11303459D00CC17DA /* PBXTextBookmark */;
+			EFC067A21303459D00CC17DA /* PBXTextBookmark */ = EFC067A21303459D00CC17DA /* PBXTextBookmark */;
+			EFC067A31303459D00CC17DA /* PBXTextBookmark */ = EFC067A31303459D00CC17DA /* PBXTextBookmark */;
+			EFC067A41303459D00CC17DA /* PBXTextBookmark */ = EFC067A41303459D00CC17DA /* PBXTextBookmark */;
+			EFC067CD1303482D00CC17DA /* PBXTextBookmark */ = EFC067CD1303482D00CC17DA /* PBXTextBookmark */;
+			EFC067CE1303482D00CC17DA /* PBXTextBookmark */ = EFC067CE1303482D00CC17DA /* PBXTextBookmark */;
+			EFC067CF1303482D00CC17DA /* PBXTextBookmark */ = EFC067CF1303482D00CC17DA /* PBXTextBookmark */;
+			EFC067D01303482D00CC17DA /* PBXTextBookmark */ = EFC067D01303482D00CC17DA /* PBXTextBookmark */;
+			EFC067D11303482D00CC17DA /* PBXTextBookmark */ = EFC067D11303482D00CC17DA /* PBXTextBookmark */;
+			EFC067D21303482D00CC17DA /* PBXTextBookmark */ = EFC067D21303482D00CC17DA /* PBXTextBookmark */;
+			EFC067D31303482D00CC17DA /* PBXTextBookmark */ = EFC067D31303482D00CC17DA /* PBXTextBookmark */;
+			EFC067D41303482D00CC17DA /* PBXTextBookmark */ = EFC067D41303482D00CC17DA /* PBXTextBookmark */;
+			EFC067D51303482D00CC17DA /* PBXTextBookmark */ = EFC067D51303482D00CC17DA /* PBXTextBookmark */;
+			EFC067DA1303494000CC17DA /* PBXTextBookmark */ = EFC067DA1303494000CC17DA /* PBXTextBookmark */;
+			EFC067DB1303494000CC17DA /* PBXTextBookmark */ = EFC067DB1303494000CC17DA /* PBXTextBookmark */;
+			EFC067DC1303494000CC17DA /* PBXTextBookmark */ = EFC067DC1303494000CC17DA /* PBXTextBookmark */;
+			EFC067DD1303494000CC17DA /* PBXTextBookmark */ = EFC067DD1303494000CC17DA /* PBXTextBookmark */;
+			EFC067DE1303494000CC17DA /* PBXTextBookmark */ = EFC067DE1303494000CC17DA /* PBXTextBookmark */;
+			EFC067DF1303494000CC17DA /* PBXTextBookmark */ = EFC067DF1303494000CC17DA /* PBXTextBookmark */;
+			EFC0680213034D9100CC17DA /* PBXTextBookmark */ = EFC0680213034D9100CC17DA /* PBXTextBookmark */;
+			EFC0680313034D9100CC17DA /* PBXTextBookmark */ = EFC0680313034D9100CC17DA /* PBXTextBookmark */;
+			EFC0680413034D9100CC17DA /* PBXTextBookmark */ = EFC0680413034D9100CC17DA /* PBXTextBookmark */;
+			EFC0680513034D9100CC17DA /* PBXTextBookmark */ = EFC0680513034D9100CC17DA /* PBXTextBookmark */;
+			EFC0680613034D9100CC17DA /* PBXTextBookmark */ = EFC0680613034D9100CC17DA /* PBXTextBookmark */;
+			EFC0680713034D9100CC17DA /* PBXTextBookmark */ = EFC0680713034D9100CC17DA /* PBXTextBookmark */;
+			EFC0680813034D9100CC17DA /* PBXTextBookmark */ = EFC0680813034D9100CC17DA /* PBXTextBookmark */;
+			EFC0680913034D9100CC17DA /* PBXTextBookmark */ = EFC0680913034D9100CC17DA /* PBXTextBookmark */;
+			EFC0681113034E0B00CC17DA /* PBXTextBookmark */ = EFC0681113034E0B00CC17DA /* PBXTextBookmark */;
+			EFC0681213034E0B00CC17DA /* PBXTextBookmark */ = EFC0681213034E0B00CC17DA /* PBXTextBookmark */;
+			EFC0681313034E0B00CC17DA /* PBXTextBookmark */ = EFC0681313034E0B00CC17DA /* PBXTextBookmark */;
+			EFC0681413034E0B00CC17DA /* PBXTextBookmark */ = EFC0681413034E0B00CC17DA /* PBXTextBookmark */;
+			EFC0681513034E0B00CC17DA /* PBXTextBookmark */ = EFC0681513034E0B00CC17DA /* PBXTextBookmark */;
+			EFC0681613034E0B00CC17DA /* PBXTextBookmark */ = EFC0681613034E0B00CC17DA /* PBXTextBookmark */;
+			EFC0681713034E0B00CC17DA /* PBXTextBookmark */ = EFC0681713034E0B00CC17DA /* PBXTextBookmark */;
+			EFC0681813034E0B00CC17DA /* PBXTextBookmark */ = EFC0681813034E0B00CC17DA /* PBXTextBookmark */;
+			EFC0681B130361F100CC17DA /* PBXTextBookmark */ = EFC0681B130361F100CC17DA /* PBXTextBookmark */;
+			EFC0681C130361F100CC17DA /* PBXTextBookmark */ = EFC0681C130361F100CC17DA /* PBXTextBookmark */;
+			EFC0681D130361F100CC17DA /* PBXTextBookmark */ = EFC0681D130361F100CC17DA /* PBXTextBookmark */;
+			EFC0681E130361F100CC17DA /* PBXTextBookmark */ = EFC0681E130361F100CC17DA /* PBXTextBookmark */;
+			EFC0681F130361F100CC17DA /* PBXTextBookmark */ = EFC0681F130361F100CC17DA /* PBXTextBookmark */;
+			EFFD4E6C1301F37400E2C64D = EFFD4E6C1301F37400E2C64D /* PBXTextBookmark */;
+		};
+		sourceControlManager = EF9D374B12D33C3A00D81345 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EF6C061C1301DDC6005EE35A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B64CC1300B10D00DC812C /* FBRequest.h */;
+		name = "FBRequest.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1475;
+		vrLoc = 0;
+	};
+	EF98646E1301DAE300AA0642 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* QRGeneration-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleURLTypes,
+			0,
+			CFBundleURLSchemes,
+			0,
+		);
+		name = "/Users/jgank/Documents/QRGeneration/QRGeneration-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EF98646F1301DAE300AA0642 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */;
+		name = "QRGenerationAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 1572;
+		rType = 0;
+		vrLen = 1112;
+		vrLoc = 0;
+	};
+	EF9864701301DAE300AA0642 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 15";
+		rLen = 1;
+		rLoc = 1386;
+		rType = 0;
+		vrLen = 1971;
+		vrLoc = 1841;
+	};
+	EF9864741301DAE300AA0642 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B64D31300B10D00DC812C /* FBDialog.m */;
+		name = "FBDialog.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1617;
+		vrLoc = 0;
+	};
+	EF9864751301DAE300AA0642 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B64D21300B10D00DC812C /* FBDialog.h */;
+		name = "FBDialog.h: 18";
+		rLen = 0;
+		rLoc = 646;
+		rType = 0;
+		vrLen = 1468;
+		vrLoc = 0;
+	};
+	EF9B643C1300A32500DC812C /* QRGenerator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 832}}";
+			sepNavSelRange = "{1242, 0}";
+			sepNavVisRange = "{0, 2162}";
+		};
+	};
+	EF9B643D1300A32500DC812C /* QRGenerator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2140, 2639}}";
+			sepNavSelRange = "{1242, 0}";
+			sepNavVisRange = "{3, 2193}";
+		};
+	};
+	EF9B649E1300AAAD00DC812C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D37B112D3405B00D81345 /* ASIFormDataRequest.h */;
+		name = "ASIFormDataRequest.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1126;
+		vrLoc = 0;
+	};
+	EF9B64CB1300B10D00DC812C /* FBConnect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 718}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 706}";
+		};
+	};
+	EF9B64CC1300B10D00DC812C /* FBRequest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 1534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1475}";
+		};
+	};
+	EF9B64CE1300B10D00DC812C /* Facebook.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 1352}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1803}";
+		};
+	};
+	EF9B64CF1300B10D00DC812C /* Facebook.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 7878}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1716}";
+		};
+	};
+	EF9B64D01300B10D00DC812C /* FBLoginDialog.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 743}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1387}";
+		};
+	};
+	EF9B64D21300B10D00DC812C /* FBDialog.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 2288}}";
+			sepNavSelRange = "{646, 0}";
+			sepNavVisRange = "{0, 1468}";
+		};
+	};
+	EF9B64D31300B10D00DC812C /* FBDialog.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 8619}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1617}";
+		};
+	};
+	EF9D373112D33C1D00D81345 /* QRGeneration */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = QRGeneration;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	EF9D374612D33C3A00D81345 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 718}}";
+			sepNavSelRange = "{1249, 0}";
+			sepNavVisRange = "{0, 1607}";
+			sepNavWindowFrame = "{{1997, -2}, {1141, 814}}";
+		};
+	};
+	EF9D374712D33C3A00D81345 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1216, 1222}}";
+			sepNavSelRange = "{1249, 0}";
+			sepNavVisRange = "{0, 2063}";
+			sepNavWindowFrame = "{{867, 257}, {1106, 676}}";
+		};
+	};
+	EF9D374B12D33C3A00D81345 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EF9D374C12D33C3A00D81345 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EF9D37B112D3405B00D81345 /* ASIFormDataRequest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 1118}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1126}";
+		};
+	};
+	EF9D37BA12D3405B00D81345 /* ASINetworkQueue.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1328, 4849}}";
+			sepNavSelRange = "{95, 0}";
+			sepNavVisRange = "{3, 1323}";
+			sepNavWindowFrame = "{{83, 177}, {1141, 814}}";
+		};
+	};
+	EFA8C9C913030A31000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B64CF1300B10D00DC812C /* Facebook.m */;
+		name = "Facebook.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1716;
+		vrLoc = 0;
+	};
+	EFA8C9CA13030A31000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B64D01300B10D00DC812C /* FBLoginDialog.h */;
+		name = "FBLoginDialog.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1387;
+		vrLoc = 0;
+	};
+	EFA8CA071303192A000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ':', ',', ';', '}' or '__attribute__' before '-' token";
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		rLen = 0;
+		rLoc = 39;
+		rType = 1;
+	};
+	EFA8CA0E13031947000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 10";
+		rLen = 0;
+		rLoc = 1268;
+		rType = 0;
+		vrLen = 2474;
+		vrLoc = 0;
+	};
+	EFA8CA0F13031947000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 28";
+		rLen = 0;
+		rLoc = 2378;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 0;
+	};
+	EFA8CA1013031947000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 34";
+		rLen = 0;
+		rLoc = 1600;
+		rType = 0;
+		vrLen = 1049;
+		vrLoc = 0;
+	};
+	EFA8CA1113031947000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 21";
+		rLen = 0;
+		rLoc = 1418;
+		rType = 0;
+		vrLen = 1731;
+		vrLoc = 0;
+	};
+	EFA8CA2E130319CE000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 21";
+		rLen = 0;
+		rLoc = 1418;
+		rType = 0;
+		vrLen = 1670;
+		vrLoc = 0;
+	};
+	EFA8CA2F130319CE000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 38";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1350;
+		vrLoc = 0;
+	};
+	EFA8CA30130319CE000F8056 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 235";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1837;
+		vrLoc = 8033;
+	};
+	EFC0666C1303279400CC17DA /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation";
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 203;
+		rType = 1;
+	};
+	EFC0667D1303349B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 23";
+		rLen = 0;
+		rLoc = 1440;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 0;
+	};
+	EFC0667E1303349B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 44";
+		rLen = 0;
+		rLoc = 2378;
+		rType = 0;
+		vrLen = 1278;
+		vrLoc = 0;
+	};
+	EFC0667F1303349B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 219";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1454;
+		vrLoc = 5872;
+	};
+	EFC066801303349B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 307";
+		rLen = 19;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 2130;
+		vrLoc = 8556;
+	};
+	EFC066811303349B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 307";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1929;
+		vrLoc = 8737;
+	};
+	EFC066861303349B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 226";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1529;
+		vrLoc = 5746;
+	};
+	EFC066871303349B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066881303349B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC06695130334FF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 307";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1930;
+		vrLoc = 8741;
+	};
+	EFC06696130334FF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 219";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1454;
+		vrLoc = 5872;
+	};
+	EFC06697130334FF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 112";
+		rLen = 0;
+		rLoc = 4910;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 3595;
+	};
+	EFC06698130334FF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 227";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1484;
+		vrLoc = 5821;
+	};
+	EFC06699130334FF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC0669A130334FF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0669F1303354C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 23";
+		rLen = 0;
+		rLoc = 1440;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 0;
+	};
+	EFC066A01303354C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 300";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1981;
+		vrLoc = 8739;
+	};
+	EFC066A11303354C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 44";
+		rLen = 0;
+		rLoc = 2378;
+		rType = 0;
+		vrLen = 1278;
+		vrLoc = 0;
+	};
+	EFC066A21303354C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 112";
+		rLen = 0;
+		rLoc = 4910;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 3595;
+	};
+	EFC066A31303354C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 112";
+		rLen = 0;
+		rLoc = 4910;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 3595;
+	};
+	EFC066A41303354C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 227";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1484;
+		vrLoc = 5821;
+	};
+	EFC066A51303354C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066A61303354C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066A91303355B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 112";
+		rLen = 0;
+		rLoc = 4910;
+		rType = 0;
+		vrLen = 1416;
+		vrLoc = 3666;
+	};
+	EFC066AA1303355B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 227";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1484;
+		vrLoc = 5821;
+	};
+	EFC066AB1303355B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066AC1303355B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066AF130335CE00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 205";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1843;
+		vrLoc = 5455;
+	};
+	EFC066B0130335CE00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 15";
+		rLen = 1;
+		rLoc = 1386;
+		rType = 0;
+		vrLen = 2024;
+		vrLoc = 1830;
+	};
+	EFC066B1130335CE00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 23";
+		rLen = 0;
+		rLoc = 1440;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 0;
+	};
+	EFC066B2130335CE00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 311";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1894;
+		vrLoc = 8848;
+	};
+	EFC066B3130335CE00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 228";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1491;
+		vrLoc = 5821;
+	};
+	EFC066B4130335CE00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066B5130335CE00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066B91303365100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 44";
+		rLen = 0;
+		rLoc = 2378;
+		rType = 0;
+		vrLen = 1278;
+		vrLoc = 0;
+	};
+	EFC066BA1303365100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 188";
+		rLen = 1;
+		rLoc = 6853;
+		rType = 0;
+		vrLen = 1443;
+		vrLoc = 5900;
+	};
+	EFC066BB1303365100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 311";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1956;
+		vrLoc = 6408;
+	};
+	EFC066BC1303365100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 273";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1752;
+		vrLoc = 8995;
+	};
+	EFC066BD1303365100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 228";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1473;
+		vrLoc = 5821;
+	};
+	EFC066BE1303365100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 228";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1471;
+		vrLoc = 5821;
+	};
+	EFC066BF1303365100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066C01303365100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066C3130336D500CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 273";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1851;
+		vrLoc = 8896;
+	};
+	EFC066C4130336D500CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 39";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1279;
+		vrLoc = 0;
+	};
+	EFC066C5130336D500CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 200";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1393;
+		vrLoc = 5950;
+	};
+	EFC066C6130336D500CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 228";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1471;
+		vrLoc = 5821;
+	};
+	EFC066C7130336D500CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066C8130336D500CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066D1130337BB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 46";
+		rLen = 0;
+		rLoc = 1600;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 0;
+	};
+	EFC066D2130337BB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 45";
+		rLen = 0;
+		rLoc = 2378;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066D3130337BB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 212";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1541;
+		vrLoc = 6023;
+	};
+	EFC066D4130337BB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 300";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1894;
+		vrLoc = 8848;
+	};
+	EFC066D5130337BB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 307";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1959;
+		vrLoc = 8896;
+	};
+	EFC066D6130337BB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 235";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1541;
+		vrLoc = 5821;
+	};
+	EFC066D7130337BB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066D8130337BB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066DB130337D300CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 307";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1834;
+		vrLoc = 9060;
+	};
+	EFC066DC130337D300CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 235";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1541;
+		vrLoc = 5821;
+	};
+	EFC066DD130337D300CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066DE130337D300CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066E1130337F700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 300";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1749;
+		vrLoc = 9148;
+	};
+	EFC066E2130337F700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 235";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1541;
+		vrLoc = 5821;
+	};
+	EFC066E3130337F700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066E4130337F700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066E71303382F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 300";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 2321;
+		vrLoc = 7806;
+	};
+	EFC066E81303382F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 45";
+		rLen = 0;
+		rLoc = 2378;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066E91303382F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 204";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1506;
+		vrLoc = 6027;
+	};
+	EFC066EA1303382F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 233";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1535;
+		vrLoc = 5821;
+	};
+	EFC066EB1303382F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066EC1303382F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066EF130338A100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 46";
+		rLen = 0;
+		rLoc = 1600;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 0;
+	};
+	EFC066F0130338A100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 303";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1754;
+		vrLoc = 9148;
+	};
+	EFC066F1130338A100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 210";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1511;
+		vrLoc = 6022;
+	};
+	EFC066F2130338A100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 211";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1519;
+		vrLoc = 6192;
+	};
+	EFC066F3130338A100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 237";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1647;
+		vrLoc = 5821;
+	};
+	EFC066F4130338A100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066F5130338A100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066F8130338AF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 210";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 6405;
+	};
+	EFC066F9130338AF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 238";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1627;
+		vrLoc = 5821;
+	};
+	EFC066FA130338AF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 92";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2059;
+		vrLoc = 1786;
+	};
+	EFC066FB130338AF00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC066FF1303391400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 210";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1589;
+		vrLoc = 6115;
+	};
+	EFC067001303391400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 46";
+		rLen = 0;
+		rLoc = 1600;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 0;
+	};
+	EFC067011303391400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 45";
+		rLen = 0;
+		rLoc = 2378;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC067021303391400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 303";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1574;
+		vrLoc = 9333;
+	};
+	EFC067031303391400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 301";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1570;
+		vrLoc = 9333;
+	};
+	EFC067041303391400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 238";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1627;
+		vrLoc = 5821;
+	};
+	EFC067051303391400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0670A13033B7400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 312";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1714;
+		vrLoc = 9222;
+	};
+	EFC0670B13033B7400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 33";
+		rLen = 0;
+		rLoc = 2014;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 0;
+	};
+	EFC0670C13033B7400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 8";
+		rLen = 1;
+		rLoc = 1243;
+		rType = 0;
+		vrLen = 2009;
+		vrLoc = 0;
+	};
+	EFC0670D13033B7400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 8";
+		rLen = 1;
+		rLoc = 1243;
+		rType = 0;
+		vrLen = 2006;
+		vrLoc = 3;
+	};
+	EFC0670E13033B7500CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 231";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1803;
+		vrLoc = 5180;
+	};
+	EFC0670F13033B7500CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0671213033C0A00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 312";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 2244;
+		vrLoc = 8182;
+	};
+	EFC0671313033C0A00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC0671413033C0A00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 8";
+		rLen = 1;
+		rLoc = 1243;
+		rType = 0;
+		vrLen = 2006;
+		vrLoc = 3;
+	};
+	EFC0671513033C0A00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 204";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1773;
+		vrLoc = 5340;
+	};
+	EFC0671613033C0A00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 211";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1803;
+		vrLoc = 5180;
+	};
+	EFC0671713033C0A00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0671813033C4B00CC17DA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+	};
+	EFC0671B13033D1F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC0671C13033D1F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 204";
+		rLen = 0;
+		rLoc = 7113;
+		rType = 0;
+		vrLen = 1895;
+		vrLoc = 5218;
+	};
+	EFC0671D13033D1F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 208";
+		rLen = 0;
+		rLoc = 7192;
+		rType = 0;
+		vrLen = 1892;
+		vrLoc = 5588;
+	};
+	EFC0672013033D1F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC0672113033D1F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 221";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1803;
+		vrLoc = 5180;
+	};
+	EFC0672213033D1F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0672513033F0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 130";
+		rLen = 0;
+		rLoc = 5016;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 4371;
+	};
+	EFC0672613033F0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 46";
+		rLen = 0;
+		rLoc = 1600;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 0;
+	};
+	EFC0672713033F0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 67";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 2224;
+		vrLoc = 1237;
+	};
+	EFC0672813033F0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC0672913033F0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 216";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1820;
+		vrLoc = 5073;
+	};
+	EFC0672A13033F0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0672D13033F6B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 63";
+		rLen = 0;
+		rLoc = 2525;
+		rType = 0;
+		vrLen = 2328;
+		vrLoc = 1277;
+	};
+	EFC0672E13033F6B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC0672F13033F6B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 216";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1820;
+		vrLoc = 5073;
+	};
+	EFC0673013033F6B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0673313033F7C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 66";
+		rLen = 15;
+		rLoc = 2726;
+		rType = 0;
+		vrLen = 2314;
+		vrLoc = 1363;
+	};
+	EFC0673413033F7C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC0673513033F7C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 216";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1820;
+		vrLoc = 5073;
+	};
+	EFC0673613033F7C00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0673913033F9400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 66";
+		rLen = 0;
+		rLoc = 2741;
+		rType = 0;
+		vrLen = 2462;
+		vrLoc = 1367;
+	};
+	EFC0673A13033F9400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC0673B13033F9400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 216";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1820;
+		vrLoc = 5073;
+	};
+	EFC0673C13033F9400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0673F13033FCB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 66";
+		rLen = 0;
+		rLoc = 2741;
+		rType = 0;
+		vrLen = 2537;
+		vrLoc = 1371;
+	};
+	EFC0674013033FCB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC0674113033FCB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 216";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1820;
+		vrLoc = 5073;
+	};
+	EFC0674213033FCB00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC067451303402F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 65";
+		rLen = 0;
+		rLoc = 2684;
+		rType = 0;
+		vrLen = 2778;
+		vrLoc = 1372;
+	};
+	EFC067461303402F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC067471303402F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 216";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1820;
+		vrLoc = 5073;
+	};
+	EFC067481303402F00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 39";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 0;
+	};
+	EFC0674D1303413D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 21";
+		rLen = 0;
+		rLoc = 1600;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 0;
+	};
+	EFC0674E1303413D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 12";
+		rLen = 0;
+		rLoc = 1340;
+		rType = 0;
+		vrLen = 1872;
+		vrLoc = 45;
+	};
+	EFC0674F1303413D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 33";
+		rLen = 0;
+		rLoc = 2059;
+		rType = 0;
+		vrLen = 1695;
+		vrLoc = 315;
+	};
+	EFC067501303413D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC067511303413D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 216";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1820;
+		vrLoc = 5073;
+	};
+	EFC067521303413D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 18";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 0;
+	};
+	EFC067541303417700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 23";
+		rLen = 0;
+		rLoc = 1607;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC067551303417700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 52";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 1813;
+		vrLoc = 237;
+	};
+	EFC067561303417700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 53";
+		rLen = 0;
+		rLoc = 2767;
+		rType = 0;
+		vrLen = 1813;
+		vrLoc = 237;
+	};
+	EFC067571303417700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	EFC067581303417700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 216";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1820;
+		vrLoc = 5073;
+	};
+	EFC067591303417700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC0675E1303420400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 53";
+		rLen = 0;
+		rLoc = 2767;
+		rType = 0;
+		vrLen = 1814;
+		vrLoc = 238;
+	};
+	EFC0675F1303420400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 15";
+		rLen = 1;
+		rLoc = 1386;
+		rType = 0;
+		vrLen = 2486;
+		vrLoc = 3177;
+	};
+	EFC067601303420400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 42";
+		rLen = 0;
+		rLoc = 2378;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC067611303420400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 77";
+		rLen = 0;
+		rLoc = 3549;
+		rType = 0;
+		vrLen = 2502;
+		vrLoc = 1619;
+	};
+	EFC067621303420400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 66";
+		rLen = 0;
+		rLoc = 3517;
+		rType = 0;
+		vrLen = 2690;
+		vrLoc = 1621;
+	};
+	EFC067631303420400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC067641303420400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 219";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1587;
+		vrLoc = 4841;
+	};
+	EFC067651303420400CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC0676A1303426200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 75";
+		rLen = 0;
+		rLoc = 3517;
+		rType = 0;
+		vrLen = 2538;
+		vrLoc = 657;
+	};
+	EFC0676B1303426200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC0676C1303426200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 221";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1451;
+		vrLoc = 4805;
+	};
+	EFC0676D1303426200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC067701303429800CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 100";
+		rLen = 0;
+		rLoc = 4910;
+		rType = 0;
+		vrLen = 1592;
+		vrLoc = 3711;
+	};
+	EFC067711303429800CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC067721303429800CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 191";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1783;
+		vrLoc = 4418;
+	};
+	EFC067731303429800CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC0677A1303450200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 115";
+		rLen = 0;
+		rLoc = 5267;
+		rType = 0;
+		vrLen = 2009;
+		vrLoc = 0;
+	};
+	EFC0677B1303450200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 42";
+		rLen = 0;
+		rLoc = 2378;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC0677C1303450200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 23";
+		rLen = 0;
+		rLoc = 1607;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC0677D1303450200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 84";
+		rLen = 0;
+		rLoc = 3388;
+		rType = 0;
+		vrLen = 1605;
+		vrLoc = 2332;
+	};
+	EFC0677E1303450200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */;
+		name = "QRGenerationAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 1572;
+		rType = 0;
+		vrLen = 1112;
+		vrLoc = 0;
+	};
+	EFC0677F1303450200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */;
+		name = "QRGenerationAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 1535;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 0;
+	};
+	EFC067801303450200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC067811303450200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 181";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1829;
+		vrLoc = 4351;
+	};
+	EFC067821303450200CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC067871303455E00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 1739;
+		rType = 0;
+		vrLen = 2111;
+		vrLoc = 0;
+	};
+	EFC067881303455E00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */;
+		name = "QRGenerationAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 1535;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 0;
+	};
+	EFC067891303455E00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */;
+		name = "QRGenerationAppDelegate.h: 22";
+		rLen = 0;
+		rLoc = 1673;
+		rType = 0;
+		vrLen = 620;
+		vrLoc = 0;
+	};
+	EFC0678A1303455E00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC0678B1303455E00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 181";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1829;
+		vrLoc = 4351;
+	};
+	EFC0678C1303455E00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC0678F1303456700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */;
+		name = "QRGenerationAppDelegate.h: 22";
+		rLen = 0;
+		rLoc = 1673;
+		rType = 0;
+		vrLen = 620;
+		vrLoc = 0;
+	};
+	EFC067901303456700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC067911303456700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 181";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1829;
+		vrLoc = 4351;
+	};
+	EFC067921303456700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC067931303457900CC17DA /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Method definition for '-applicationDocumentsDirectory' not found";
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 102;
+		rType = 1;
+	};
+	EFC067961303458700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */;
+		name = "QRGenerationAppDelegate.h: 22";
+		rLen = 0;
+		rLoc = 1673;
+		rType = 0;
+		vrLen = 620;
+		vrLoc = 0;
+	};
+	EFC067991303458700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 83";
+		rLen = 0;
+		rLoc = 3720;
+		rType = 0;
+		vrLen = 2037;
+		vrLoc = 50;
+	};
+	EFC0679A1303458700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC0679B1303458700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 181";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1829;
+		vrLoc = 4351;
+	};
+	EFC0679C1303458700CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC0679D1303458D00CC17DA /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incomplete implementation of class 'QRGenerationAppDelegate'";
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 102;
+		rType = 1;
+	};
+	EFC067A01303459D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */;
+		name = "QRGenerationAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 1673;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 0;
+	};
+	EFC067A11303459D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 83";
+		rLen = 0;
+		rLoc = 3720;
+		rType = 0;
+		vrLen = 1482;
+		vrLoc = 1141;
+	};
+	EFC067A21303459D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	EFC067A31303459D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 181";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1829;
+		vrLoc = 4351;
+	};
+	EFC067A41303459D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC067CD1303482D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QRGenerationAppDelegate.h */;
+		name = "QRGenerationAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 1673;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 0;
+	};
+	EFC067CE1303482D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B64CE1300B10D00DC812C /* Facebook.h */;
+		name = "Facebook.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1803;
+		vrLoc = 0;
+	};
+	EFC067CF1303482D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 30";
+		rLen = 0;
+		rLoc = 2203;
+		rType = 0;
+		vrLen = 2135;
+		vrLoc = 0;
+	};
+	EFC067D01303482D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 14";
+		rLen = 0;
+		rLoc = 1382;
+		rType = 0;
+		vrLen = 1251;
+		vrLoc = 0;
+	};
+	EFC067D11303482D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 17";
+		rLen = 0;
+		rLoc = 1478;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 0;
+	};
+	EFC067D21303482D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 83";
+		rLen = 0;
+		rLoc = 3720;
+		rType = 0;
+		vrLen = 1482;
+		vrLoc = 1141;
+	};
+	EFC067D31303482D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 0;
+	};
+	EFC067D41303482D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 176";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1762;
+		vrLoc = 4368;
+	};
+	EFC067D51303482D00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC067DA1303494000CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 10";
+		rLen = 0;
+		rLoc = 1278;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 0;
+	};
+	EFC067DB1303494000CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 32";
+		rLen = 0;
+		rLoc = 2203;
+		rType = 0;
+		vrLen = 2169;
+		vrLoc = 140;
+	};
+	EFC067DC1303494000CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 83";
+		rLen = 0;
+		rLoc = 3720;
+		rType = 0;
+		vrLen = 1482;
+		vrLoc = 1141;
+	};
+	EFC067DD1303494000CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 0;
+	};
+	EFC067DE1303494000CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 180";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1761;
+		vrLoc = 4517;
+	};
+	EFC067DF1303494000CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC0680213034D9100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 38";
+		rLen = 0;
+		rLoc = 2162;
+		rType = 0;
+		vrLen = 1303;
+		vrLoc = 0;
+	};
+	EFC0680313034D9100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 36";
+		rLen = 0;
+		rLoc = 2192;
+		rType = 0;
+		vrLen = 2254;
+		vrLoc = 141;
+	};
+	EFC0680413034D9100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 15";
+		rLen = 0;
+		rLoc = 1454;
+		rType = 0;
+		vrLen = 2183;
+		vrLoc = 3;
+	};
+	EFC0680513034D9100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 37";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 0;
+	};
+	EFC0680613034D9100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 40";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1303;
+		vrLoc = 0;
+	};
+	EFC0680713034D9100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 83";
+		rLen = 0;
+		rLoc = 3720;
+		rType = 0;
+		vrLen = 1482;
+		vrLoc = 1141;
+	};
+	EFC0680813034D9100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 184";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1588;
+		vrLoc = 2783;
+	};
+	EFC0680913034D9100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC0681113034E0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 15";
+		rLen = 0;
+		rLoc = 1454;
+		rType = 0;
+		vrLen = 2183;
+		vrLoc = 3;
+	};
+	EFC0681213034E0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D37BA12D3405B00D81345 /* ASINetworkQueue.m */;
+		name = "ASINetworkQueue.m: 4";
+		rLen = 0;
+		rLoc = 95;
+		rType = 0;
+		vrLen = 1323;
+		vrLoc = 3;
+	};
+	EFC0681313034E0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 38";
+		rLen = 0;
+		rLoc = 2162;
+		rType = 0;
+		vrLen = 1303;
+		vrLoc = 0;
+	};
+	EFC0681413034E0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 10";
+		rLen = 0;
+		rLoc = 1278;
+		rType = 0;
+		vrLen = 1275;
+		vrLoc = 0;
+	};
+	EFC0681513034E0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 39";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1275;
+		vrLoc = 0;
+	};
+	EFC0681613034E0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 83";
+		rLen = 0;
+		rLoc = 3720;
+		rType = 0;
+		vrLen = 1482;
+		vrLoc = 1141;
+	};
+	EFC0681713034E0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 184";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1588;
+		vrLoc = 2783;
+	};
+	EFC0681813034E0B00CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFC0681B130361F100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 10";
+		rLen = 0;
+		rLoc = 1278;
+		rType = 0;
+		vrLen = 1275;
+		vrLoc = 0;
+	};
+	EFC0681C130361F100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643C1300A32500DC812C /* QRGenerator.h */;
+		name = "QRGenerator.h: 39";
+		rLen = 0;
+		rLoc = 2329;
+		rType = 0;
+		vrLen = 1275;
+		vrLoc = 0;
+	};
+	EFC0681D130361F100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QRGenerationAppDelegate.m */;
+		name = "QRGenerationAppDelegate.m: 83";
+		rLen = 0;
+		rLoc = 3720;
+		rType = 0;
+		vrLen = 1482;
+		vrLoc = 1141;
+	};
+	EFC0681E130361F100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9B643D1300A32500DC812C /* QRGenerator.m */;
+		name = "QRGenerator.m: 184";
+		rLen = 0;
+		rLoc = 7522;
+		rType = 0;
+		vrLen = 1588;
+		vrLoc = 2783;
+	};
+	EFC0681F130361F100CC17DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374612D33C3A00D81345 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	EFFD4E6C1301F37400E2C64D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF9D374712D33C3A00D81345 /* MainViewController.m */;
+		name = "MainViewController.m: 249";
+		rLen = 0;
+		rLoc = 3110;
+		rType = 0;
+		vrLen = 1194;
+		vrLoc = 7806;
+	};
+}

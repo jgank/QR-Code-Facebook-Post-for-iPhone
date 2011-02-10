@@ -1,0 +1,28 @@
+//
+//  MainViewController.h
+//  QRGeneration
+//
+//  Created by Justin Knag on 1/4/11.
+//  Copyright 2011 Knag Enterprises. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "ASINetworkQueue.h"
+
+
+@interface MainViewController : UIViewController {
+	ASINetworkQueue *networkQueue;
+	IBOutlet UITextField *inputID;
+	IBOutlet UIImageView *QrView;
+	IBOutlet UIButton *goButton;
+
+}
+
+@property (nonatomic,retain) IBOutlet UITextField *inputID;
+@property (nonatomic,retain) IBOutlet UIImageView *QrView;
+@property (nonatomic,retain) IBOutlet UIButton *goButton;
+
+- (IBAction) generateQR: (id) sender;
+
+
+@end

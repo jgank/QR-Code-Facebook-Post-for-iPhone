@@ -1,0 +1,302 @@
+TQRGeneration
+v7
+r0
+t315833859.937458
+cCheck dependencies
+cProcessInfoPlistFile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist QRGeneration-Info.plist
+cCompileXIB /Users/jgank/Documents/QRGeneration/MainWindow.xib
+cCompileXIB /Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+cProcessPCH /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch QRGeneration_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd /Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o /Users/jgank/Documents/QRGeneration/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration normal i386
+cGenerateDSYMFile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+cTouch /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/jgank/Documents/QRGeneration/Classes/MainViewController.h
+c000000004D23067000000000000001A2
+t1294141040
+s418
+i<UIKit/UIKit.h>
+
+N/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m
+c000000004D2304BA00000000000005AE
+t1294140602
+s1454
+i"MainViewController.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+c000000004D23067800000000000050D8
+t1294141048
+s20696
+
+N/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.h
+c000000004D23051900000000000003FB
+t1294140697
+s1019
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"MainViewController.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m
+c000000004D2305250000000000001E24
+t1294140709
+s7716
+i"QRGenerationAppDelegate.h"
+
+N/Users/jgank/Documents/QRGeneration/MainWindow.xib
+c000000004D2305F10000000000004529
+t1294140913
+s17705
+
+N/Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+c000000004D23049C0000000000000088
+t1294140572
+s136
+
+N/Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch
+c000000004D23049C000000000000016C
+t1294140572
+s364
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app
+t1294141059
+s272
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM
+t1294141059
+s102
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist
+t1294141056
+s611
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/MainViewController.nib
+t1294141057
+s1435
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/MainWindow.nib
+t1294141057
+s989
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/PkgInfo
+t1294141056
+s8
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+t1294141059
+s18992
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd
+t1294141059
+s136
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o
+t1294141059
+s38160
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGeneration.LinkFileList
+c000000004D23068000000000000001A4
+t1294141056
+s420
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o
+t1294141059
+s61896
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o
+t1294141059
+s6296
+
+N/Users/jgank/Documents/QRGeneration/main.m
+c000000004D23049C000000000000016B
+t1294140572
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch
+t1294141059
+s16326640
+
+NQRGeneration-Info.plist
+c000000004D23049C000000000000038D
+t1294140572
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315833856#315833856#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315833859.464438
+e315833859.581208
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o
+x/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:59: warning: property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:59: warning: property 'inputID' requires the method 'setInputID:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:59: warning: property 'QrView' requires method '-QrView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:59: warning: property 'QrView' requires the method 'setQrView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@72"Compile /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315833859#315833859#0(814"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:59: warning: property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:59: warning: property 'inputID' requires the method 'setInputID:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:59: warning: property 'QrView' requires method '-QrView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:59: warning: property 'QrView' requires the method 'setQrView:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@122"Property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation315833859#0#201#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315833402#59#0#59#0#0"0(22@129"Property 'inputID' requires the method 'setInputID:' to be defined - use @synthesize, @dynamic or provide a method implementation315833859#201#208#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315833402#59#0#59#0#0"0(22@120"Property 'QrView' requires method '-QrView' to be defined - use @synthesize, @dynamic or provide a method implementation315833859#409#199#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315833402#59#0#59#0#0"0(22@127"Property 'QrView' requires the method 'setQrView:' to be defined - use @synthesize, @dynamic or provide a method implementation315833859#608#206#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315833402#59#0#59#0#0"0(0#0#64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m8612305760#2017"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315833859.422388
+e315833859.631158
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o
+x/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m: In function '-[QRGenerationAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m:23: warning: incompatible Objective-C types 'struct MainViewController *', expected 'struct UIView *' when passing argument 1 of 'addSubview:' from distinct Objective-C type
+o/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m: At top level:
+o/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m:202: warning: property 'mainViewController' requires method '-mainViewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m:202: warning: property 'mainViewController' requires the method 'setMainViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@77"Compile /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m315833859#315833859#0(950"/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m: In function '-[QRGenerationAppDelegate application:didFinishLaunchingWithOptions:]':/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m:23: warning: incompatible Objective-C types 'struct MainViewController *', expected 'struct UIView *' when passing argument 1 of 'addSubview:' from distinct Objective-C type/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m: At top level:/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m:202: warning: property 'mainViewController' requires method '-mainViewController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m:202: warning: property 'mainViewController' requires the method 'setMainViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@160"Incompatible Objective-C types 'struct MainViewController *', expected 'struct UIView *' when passing argument 1 of 'addSubview:' from distinct Objective-C type315833859#156#244#0(6@69"/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m315833509#23#0#23#0#0"0(23@13"At top level:315833859#400#85#0(6@69"/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m315833509#0#0#0#0#0"0(22@144"Property 'mainViewController' requires method '-mainViewController' to be defined - use @synthesize, @dynamic or provide a method implementation315833859#485#229#0(6@69"/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m315833509#202#0#202#0#0"0(22@151"Property 'mainViewController' requires the method 'setMainViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation315833859#714#236#0(6@69"/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m315833509#202#0#202#0#0"0(0#0#69"/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m8612472256#2027"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGenerationAppDelegate.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o /Users/jgank/Documents/QRGeneration/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315833859.301524
+e315833859.464336
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o
+x/Users/jgank/Documents/QRGeneration/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/jgank/Documents/QRGeneration/main.m315833859#315833859#0(0"0(0#0#42"/Users/jgank/Documents/QRGeneration/main.m8611385696#1981"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/main.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+s315833856.787709
+e315833857.260787
+r1
+xCompileXIB
+x/Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+lSLF07#2@41"CompileXIB Classes/MainViewController.xib315833856#315833857#0(0"0(0#0#66"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib8612480544#590"    cd /Users/jgank/Documents/QRGeneration    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/MainViewController.nib /Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jgank/Documents/QRGeneration/MainWindow.xib
+s315833856.776143
+e315833857.210112
+r1
+xCompileXIB
+x/Users/jgank/Documents/QRGeneration/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315833856#315833857#0(0"0(0#0#50"/Users/jgank/Documents/QRGeneration/MainWindow.xib8613364288#566"    cd /Users/jgank/Documents/QRGeneration    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/MainWindow.nib /Users/jgank/Documents/QRGeneration/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd /Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+s315833859.300681
+e315833859.422274
+r1
+xDataModelVersionCompile
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd
+x/Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+lSLF07#2@112"DataModelVersionCompile build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd QRGeneration.xcdatamodeld315833859#315833859#0(0"0(0#0#61"/Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld8611616928#392"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration.momd0#
+
+CGenerateDSYMFile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+s315833859.855120
+e315833859.910346
+r1
+xGenerateDSYMFile
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/QRGeneration.app.dSYM build/Debug-iphonesimulator/QRGeneration.app/QRGeneration315833859#315833859#0(0"0(0#0#93"/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration8614444960#389"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration -o /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app.dSYM0#
+
+CLd /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration normal i386
+s315833859.631249
+e315833859.855020
+r1
+xLd
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration
+xnormal
+xi386
+lSLF07#2@98"Link /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration315833859#315833859#0(0"0(0#0#0"30681223440564324#930"    cd /Users/jgank/Documents/QRGeneration    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -filelist /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/Objects-normal/i386/QRGeneration.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/QRGeneration0#
+
+CProcessInfoPlistFile /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist QRGeneration-Info.plist
+s315833856.740990
+e315833856.776043
+r1
+xProcessInfoPlistFile
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist
+xQRGeneration-Info.plist
+lSLF07#2@31"Process QRGeneration-Info.plist315833856#315833856#0(0"0(0#0#59"/Users/jgank/Documents/QRGeneration/QRGeneration-Info.plist32370056120631408#485"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility QRGeneration-Info.plist -genpkginfo /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app/Info.plist0#
+
+CProcessPCH /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch QRGeneration_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315833857.260940
+e315833859.300495
+r1
+xProcessPCH
+x/var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch
+xQRGeneration_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile QRGeneration_Prefix.pch315833857#315833859#0(0"0(0#0#59"/Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch8611509664#1871"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator -I/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources/i386 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphonesimulator/QRGeneration.build/DerivedSources -c /Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch -o /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-gsbamdgletdmvxhbxfolejerttbf/QRGeneration_Prefix.pch.gch0#
+
+CTouch /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app
+s315833859.910436
+e315833859.937400
+r1
+xTouch
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app
+lSLF07#2@86"Touch /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app315833859#315833859#0(0"0(0#0#0"8613431008#277"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jgank/Documents/QRGeneration/build/Debug-iphonesimulator/QRGeneration.app0#
+

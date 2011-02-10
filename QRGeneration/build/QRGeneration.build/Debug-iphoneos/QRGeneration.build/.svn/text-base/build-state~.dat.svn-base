@@ -1,0 +1,1067 @@
+TQRGeneration
+v7
+r0
+t315915702.218059
+cCheck dependencies
+cCpResource build/Debug-iphoneos/QRGeneration.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/Info.plist QRGeneration-Info.plist
+cCompileXIB /Users/jgank/Documents/QRGeneration/MainWindow.xib
+cCompileXIB /Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+cProcessPCH /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch.gch QRGeneration_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch.gch QRGeneration_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration.momd /Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/main.o /Users/jgank/Documents/QRGeneration/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGenerationAppDelegate.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/MainViewController.o /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIAuthenticationDialog.o /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataCompressor.o /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataDecompressor.o /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDownloadCache.o /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIFormDataRequest.o /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIHTTPRequest.o /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIInputStream.o /Users/jgank/Documents/QRGeneration/ASIInputStream.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASINetworkQueue.o /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/Reachability.o /Users/jgank/Documents/QRGeneration/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/main.o /Users/jgank/Documents/QRGeneration/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGenerationAppDelegate.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/MainViewController.o /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataCompressor.o /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDownloadCache.o /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGeneration normal armv6
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIInputStream.o /Users/jgank/Documents/QRGeneration/ASIInputStream.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASINetworkQueue.o /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/Reachability.o /Users/jgank/Documents/QRGeneration/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGeneration normal armv7
+cCreateUniversalBinary /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration normal "armv6 armv7"
+cGenerateDSYMFile /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app.dSYM /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration
+cProcessProductPackaging "/Users/jgank/Library/MobileDevice/Provisioning Profiles/B5D93225-AA38-4797-A5B9-A1379E10B6CF.mobileprovision" /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/embedded.mobileprovision
+cTouch /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration.xcent
+cCodeSign /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC10EEE00000000002C9710
+t1287720686
+s2922256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC10EAD00000000000004CF
+t1287720621
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC10FA70000000000300DE0
+t1287720871
+s3149280
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC10F8D000000000000046B
+t1287720845
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC10D700000000000000AB3
+t1287720304
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004CC1106800000000000000EB
+t1287721064
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC110680000000000094AF0
+t1287721064
+s609008
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004CB3E44C0000000000000DE2
+t1286857804
+s3554
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E4790000000000001533
+t1286857849
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4840000000000000782
+t1286857860
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netdb.h
+c000000004CB3E4A0000000000000307F
+t1286857888
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACDD0000000000005462
+t1287630045
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACCD0000000000004F61
+t1287630029
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACD80000000000005A69
+t1287630040
+s23145
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/zlib.h
+c000000004CC1053F00000000000102A5
+t1287718207
+s66213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.1.2.3.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.h
+c000000004CDE90860000000000000453
+t1289654406
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m
+c000000004CDE90860000000000003CC4
+t1289654406
+s15556
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jgank/Documents/QRGeneration/ASICacheDelegate.h
+c000000004CDE908600000000000011CE
+t1289654406
+s4558
+i<Foundation/Foundation.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIDataCompressor.h
+c000000004CDE90860000000000000691
+t1289654406
+s1681
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIDataCompressor.m
+c000000004CDE9086000000000000196B
+t1289654406
+s6507
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.h
+c000000004CDE908600000000000006A3
+t1289654406
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m
+c000000004CDE908600000000000018B6
+t1289654406
+s6326
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIDownloadCache.h
+c000000004CDE90860000000000000804
+t1289654406
+s2052
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIDownloadCache.m
+c000000004CDE9086000000000000403F
+t1289654406
+s16447
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.h
+c000000004CDE90860000000000000A6D
+t1289654406
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m
+c000000004CDE90860000000000002B52
+t1289654406
+s11090
+i"ASIFormDataRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.h
+c000000004CDE9086000000000000A94C
+t1289654406
+s43340
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m
+c000000004CDE908600000000000280EF
+t1289654406
+s164079
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIHTTPRequestConfig.h
+c000000004CDE908600000000000003B0
+t1289654406
+s944
+
+N/Users/jgank/Documents/QRGeneration/ASIHTTPRequestDelegate.h
+c000000004CDE9086000000000000063E
+t1289654406
+s1598
+
+N/Users/jgank/Documents/QRGeneration/ASIInputStream.h
+c000000004CDE908600000000000003C9
+t1289654406
+s969
+i<Foundation/Foundation.h>
+
+N/Users/jgank/Documents/QRGeneration/ASIInputStream.m
+c000000004CDE90860000000000000BF0
+t1289654406
+s3056
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASINetworkQueue.h
+c000000004CDE9086000000000000120D
+t1289654406
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/jgank/Documents/QRGeneration/ASINetworkQueue.m
+c000000004CDE90860000000000002C8D
+t1289654406
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/ASIProgressDelegate.h
+c000000004CDE90860000000000000678
+t1289654406
+s1656
+
+N/Users/jgank/Documents/QRGeneration/Classes/MainViewController.h
+c000000004D23096C000000000000025D
+t1294141804
+s605
+i<UIKit/UIKit.h>
+i"ASINetworkQueue.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m
+c000000004D24462D0000000000000D87
+t1294222893
+s3463
+i"MainViewController.h"
+i"ASIFormDataRequest.h"
+i"ASIHTTPRequest.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+c000000004D2310350000000000006071
+t1294143541
+s24689
+
+N/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.h
+c000000004D230CF9000000000000040A
+t1294142713
+s1034
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"MainViewController.h"
+
+N/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m
+c000000004D230CC90000000000001E48
+t1294142665
+s7752
+i"QRGenerationAppDelegate.h"
+
+N/Users/jgank/Documents/QRGeneration/MainWindow.xib
+c000000004D230D080000000000005BE1
+t1294142728
+s23521
+
+N/Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+c000000004D23049C0000000000000088
+t1294140572
+s136
+
+N/Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch
+c000000004D23049C000000000000016C
+t1294140572
+s364
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/jgank/Documents/QRGeneration/Reachability.h
+c000000004CDE90860000000000001D0E
+t1289654406
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/jgank/Documents/QRGeneration/Reachability.m
+c000000004CDE90860000000000005E0C
+t1289654406
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app
+t1294222902
+s408
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app.dSYM
+t1294222901
+s102
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/Info.plist
+t1294222893
+s801
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/MainViewController.nib
+t1294222894
+s2120
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/MainWindow.nib
+t1294222894
+s1113
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/PkgInfo
+t1294222893
+s8
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration
+t1294222901
+s736892
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration.momd
+t1294222897
+s136
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/ResourceRules.plist
+t1294222893
+s485
+
+N/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/embedded.mobileprovision
+t1294222901
+s7158
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+t1294222897
+s103428
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataCompressor.o
+t1294222897
+s22444
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataDecompressor.o
+t1294222897
+s22496
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDownloadCache.o
+t1294222898
+s57736
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIFormDataRequest.o
+t1294222898
+s45072
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIHTTPRequest.o
+t1294222899
+s448244
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIInputStream.o
+t1294222898
+s27192
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASINetworkQueue.o
+t1294222898
+s56680
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/MainViewController.o
+t1294222897
+s51728
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGeneration
+t1294222900
+s369148
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGeneration.LinkFileList
+c000000004D24462D0000000000000655
+t1294222893
+s1621
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGenerationAppDelegate.o
+t1294222897
+s62620
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/Reachability.o
+t1294222898
+s32036
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/main.o
+t1294222897
+s6440
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+t1294222899
+s102272
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataCompressor.o
+t1294222899
+s22276
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataDecompressor.o
+t1294222899
+s22360
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDownloadCache.o
+t1294222899
+s56564
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIFormDataRequest.o
+t1294222899
+s44164
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIHTTPRequest.o
+t1294222900
+s439500
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIInputStream.o
+t1294222900
+s26924
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASINetworkQueue.o
+t1294222900
+s56072
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/MainViewController.o
+t1294222898
+s51608
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGeneration
+t1294222901
+s360060
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGeneration.LinkFileList
+c000000004D24462D0000000000000655
+t1294222893
+s1621
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGenerationAppDelegate.o
+t1294222898
+s62424
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/Reachability.o
+t1294222900
+s31200
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/main.o
+t1294222898
+s6424
+
+N/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration.xcent
+t1294222901
+s430
+
+N/Users/jgank/Documents/QRGeneration/main.m
+c000000004D23049C000000000000016B
+t1294140572
+s363
+i<UIKit/UIKit.h>
+
+N/Users/jgank/Library/MobileDevice/Provisioning Profiles/B5D93225-AA38-4797-A5B9-A1379E10B6CF.mobileprovision
+c000000004D19CE540000000000001BF6
+t1293536852
+s7158
+
+N/var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch.gch
+t1294222897
+s10545556
+
+N/var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch.gch
+t1294222897
+s11004308
+
+NQRGeneration-Info.plist
+c000000004D23049C000000000000038D
+t1294140572
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315915693#315915693#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCodeSign /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app
+s315915701.743291
+e315915702.217884
+r1
+xCodeSign
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app
+lSLF07#2@46"CodeSign build/Debug-iphoneos/QRGeneration.app315915701#315915702#0(0"0(0#0#73"/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app8644418880#660"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Justin Knag (6DC88VRSE2)" --resource-rules=/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/ResourceRules.plist --entitlements /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration.xcent /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIAuthenticationDialog.o /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915697.616617
+e315915697.994746
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+x/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m315915697#315915697#0(0"0(0#0#61"/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m7665776580704888832#1829"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIAuthenticationDialog.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataCompressor.o /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915697.627714
+e315915697.769400
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataCompressor.o
+x/Users/jgank/Documents/QRGeneration/ASIDataCompressor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m315915697#315915697#0(0"0(0#0#55"/Users/jgank/Documents/QRGeneration/ASIDataCompressor.m8639489536#1817"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataCompressor.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataDecompressor.o /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915697.769509
+e315915697.923147
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataDecompressor.o
+x/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m315915697#315915697#0(0"0(0#0#57"/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m8641131584#1821"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDataDecompressor.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDownloadCache.o /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915697.923256
+e315915698.222153
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDownloadCache.o
+x/Users/jgank/Documents/QRGeneration/ASIDownloadCache.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m315915697#315915698#0(0"0(0#0#54"/Users/jgank/Documents/QRGeneration/ASIDownloadCache.m8643290752#1815"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIDownloadCache.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIFormDataRequest.o /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915697.994858
+e315915698.205337
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIFormDataRequest.o
+x/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m315915697#315915698#0(0"0(0#0#56"/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m8643010656#1819"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIFormDataRequest.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIHTTPRequest.o /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915698.205445
+e315915699.890884
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIHTTPRequest.o
+x/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m315915698#315915699#0(0"0(0#0#52"/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m8643245952#1811"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIHTTPRequest.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIInputStream.o /Users/jgank/Documents/QRGeneration/ASIInputStream.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915698.222259
+e315915698.320876
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIInputStream.o
+x/Users/jgank/Documents/QRGeneration/ASIInputStream.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jgank/Documents/QRGeneration/ASIInputStream.m315915698#315915698#0(0"0(0#0#52"/Users/jgank/Documents/QRGeneration/ASIInputStream.m8642968384#1811"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIInputStream.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASIInputStream.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASINetworkQueue.o /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915698.320983
+e315915698.507877
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASINetworkQueue.o
+x/Users/jgank/Documents/QRGeneration/ASINetworkQueue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m315915698#315915698#0(0"0(0#0#53"/Users/jgank/Documents/QRGeneration/ASINetworkQueue.m8644141920#1813"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/ASINetworkQueue.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/MainViewController.o /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915697.454387
+e315915697.616395
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/MainViewController.o
+x/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m: In function '-[MainViewController generateQR:]':
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:57: warning: format not a string literal and no format arguments
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m: At top level:
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'inputID' requires the method 'setInputID:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'QrView' requires method '-QrView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'QrView' requires the method 'setQrView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'goButton' requires method '-goButton' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'goButton' requires the method 'setGoButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@72"Compile /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915697#315915697#0(1558"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m: In function '-[MainViewController generateQR:]':/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:57: warning: format not a string literal and no format arguments/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m: At top level:/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'inputID' requires the method 'setInputID:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'QrView' requires method '-QrView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'QrView' requires the method 'setQrView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'goButton' requires method '-goButton' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'goButton' requires the method 'setGoButton:' to be defined - use @synthesize, @dynamic or provide a method implementation8(22@51"Format not a string literal and no format arguments315915697#115#130#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#57#0#57#0#51"format not a string literal and no format arguments0(23@13"At top level:315915697#245#80#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#0#0#0#0#0"0(22@122"Property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation315915697#325#202#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@129"Property 'inputID' requires the method 'setInputID:' to be defined - use @synthesize, @dynamic or provide a method implementation315915697#527#209#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@120"Property 'QrView' requires method '-QrView' to be defined - use @synthesize, @dynamic or provide a method implementation315915697#736#200#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@127"Property 'QrView' requires the method 'setQrView:' to be defined - use @synthesize, @dynamic or provide a method implementation315915697#936#207#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@124"Property 'goButton' requires method '-goButton' to be defined - use @synthesize, @dynamic or provide a method implementation315915697#1143#204#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@131"Property 'goButton' requires the method 'setGoButton:' to be defined - use @synthesize, @dynamic or provide a method implementation315915697#1347#211#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(0#0#64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m8642048544#1827"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/MainViewController.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGenerationAppDelegate.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915697.428726
+e315915697.627605
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGenerationAppDelegate.o
+x/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m315915697#315915697#0(0"0(0#0#69"/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m8643451776#1837"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGenerationAppDelegate.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/Reachability.o /Users/jgank/Documents/QRGeneration/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915698.507981
+e315915698.717166
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/Reachability.o
+x/Users/jgank/Documents/QRGeneration/Reachability.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/jgank/Documents/QRGeneration/Reachability.m315915698#315915698#0(0"0(0#0#50"/Users/jgank/Documents/QRGeneration/Reachability.m8642959360#1807"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Reachability.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/Reachability.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/main.o /Users/jgank/Documents/QRGeneration/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915697.311631
+e315915697.454225
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/main.o
+x/Users/jgank/Documents/QRGeneration/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/jgank/Documents/QRGeneration/main.m315915697#315915697#0(0"0(0#0#42"/Users/jgank/Documents/QRGeneration/main.m8644081568#1791"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/main.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915698.985694
+e315915699.238339
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+x/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m315915698#315915699#0(0"0(0#0#61"/Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m8641961536#1829"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIAuthenticationDialog.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIAuthenticationDialog.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataCompressor.o /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915699.238448
+e315915699.351546
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataCompressor.o
+x/Users/jgank/Documents/QRGeneration/ASIDataCompressor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m315915699#315915699#0(0"0(0#0#55"/Users/jgank/Documents/QRGeneration/ASIDataCompressor.m8645429184#1817"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIDataCompressor.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataCompressor.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915699.351657
+e315915699.460835
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataDecompressor.o
+x/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m315915699#315915699#0(0"0(0#0#57"/Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m8643827840#1821"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIDataDecompressor.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDataDecompressor.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDownloadCache.o /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915699.460949
+e315915699.666761
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDownloadCache.o
+x/Users/jgank/Documents/QRGeneration/ASIDownloadCache.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m315915699#315915699#0(0"0(0#0#54"/Users/jgank/Documents/QRGeneration/ASIDownloadCache.m8647511264#1815"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIDownloadCache.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIDownloadCache.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915699.666964
+e315915699.821072
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIFormDataRequest.o
+x/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m315915699#315915699#0(0"0(0#0#56"/Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m8647806464#1819"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIFormDataRequest.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIFormDataRequest.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915699.821905
+e315915700.983420
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIHTTPRequest.o
+x/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m315915699#315915700#0(0"0(0#0#52"/Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m8643921312#1811"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIHTTPRequest.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIHTTPRequest.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIInputStream.o /Users/jgank/Documents/QRGeneration/ASIInputStream.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915700.553837
+e315915700.651770
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIInputStream.o
+x/Users/jgank/Documents/QRGeneration/ASIInputStream.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jgank/Documents/QRGeneration/ASIInputStream.m315915700#315915700#0(0"0(0#0#52"/Users/jgank/Documents/QRGeneration/ASIInputStream.m8643062112#1811"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASIInputStream.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASIInputStream.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASINetworkQueue.o /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915700.651879
+e315915700.810497
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASINetworkQueue.o
+x/Users/jgank/Documents/QRGeneration/ASINetworkQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m315915700#315915700#0(0"0(0#0#53"/Users/jgank/Documents/QRGeneration/ASINetworkQueue.m8642405056#1813"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/ASINetworkQueue.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/ASINetworkQueue.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/MainViewController.o /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915698.886254
+e315915698.985586
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/MainViewController.o
+x/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m: In function '-[MainViewController generateQR:]':
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:57: warning: format not a string literal and no format arguments
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m: At top level:
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'inputID' requires the method 'setInputID:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'QrView' requires method '-QrView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'QrView' requires the method 'setQrView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'goButton' requires method '-goButton' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'goButton' requires the method 'setGoButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@72"Compile /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915698#315915698#0(1558"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m: In function '-[MainViewController generateQR:]':/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:57: warning: format not a string literal and no format arguments/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m: At top level:/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'inputID' requires the method 'setInputID:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'QrView' requires method '-QrView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'QrView' requires the method 'setQrView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'goButton' requires method '-goButton' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m:114: warning: property 'goButton' requires the method 'setGoButton:' to be defined - use @synthesize, @dynamic or provide a method implementation8(22@51"Format not a string literal and no format arguments315915698#115#130#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#57#0#57#0#51"format not a string literal and no format arguments0(23@13"At top level:315915698#245#80#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#0#0#0#0#0"0(22@122"Property 'inputID' requires method '-inputID' to be defined - use @synthesize, @dynamic or provide a method implementation315915698#325#202#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@129"Property 'inputID' requires the method 'setInputID:' to be defined - use @synthesize, @dynamic or provide a method implementation315915698#527#209#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@120"Property 'QrView' requires method '-QrView' to be defined - use @synthesize, @dynamic or provide a method implementation315915698#736#200#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@127"Property 'QrView' requires the method 'setQrView:' to be defined - use @synthesize, @dynamic or provide a method implementation315915698#936#207#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@124"Property 'goButton' requires method '-goButton' to be defined - use @synthesize, @dynamic or provide a method implementation315915698#1143#204#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(22@131"Property 'goButton' requires the method 'setGoButton:' to be defined - use @synthesize, @dynamic or provide a method implementation315915698#1347#211#0(6@64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m315915693#114#0#114#0#0"0(0#0#64"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.m8642678400#1827"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Classes/MainViewController.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/MainViewController.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGenerationAppDelegate.o /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915698.781160
+e315915698.886139
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGenerationAppDelegate.o
+x/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m315915698#315915698#0(0"0(0#0#69"/Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m8643281120#1837"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Classes/QRGenerationAppDelegate.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGenerationAppDelegate.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/Reachability.o /Users/jgank/Documents/QRGeneration/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915700.810605
+e315915700.986204
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/Reachability.o
+x/Users/jgank/Documents/QRGeneration/Reachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/jgank/Documents/QRGeneration/Reachability.m315915700#315915700#0(0"0(0#0#50"/Users/jgank/Documents/QRGeneration/Reachability.m8647815936#1807"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/Reachability.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/Reachability.o0#
+
+CCompileC build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/main.o /Users/jgank/Documents/QRGeneration/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915698.717394
+e315915698.781055
+r1
+xCompileC
+xbuild/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/main.o
+x/Users/jgank/Documents/QRGeneration/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/jgank/Documents/QRGeneration/main.m315915698#315915698#0(0"0(0#0#42"/Users/jgank/Documents/QRGeneration/main.m8644684352#1791"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -include /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch -c /Users/jgank/Documents/QRGeneration/main.m -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+s315915693.953428
+e315915694.722621
+r1
+xCompileXIB
+x/Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib
+lSLF07#2@41"CompileXIB Classes/MainViewController.xib315915693#315915694#0(0"0(0#0#66"/Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib8644445920#562"    cd /Users/jgank/Documents/QRGeneration    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/MainViewController.nib /Users/jgank/Documents/QRGeneration/Classes/MainViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/jgank/Documents/QRGeneration/MainWindow.xib
+s315915693.952710
+e315915694.577291
+r1
+xCompileXIB
+x/Users/jgank/Documents/QRGeneration/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315915693#315915694#0(0"0(0#0#50"/Users/jgank/Documents/QRGeneration/MainWindow.xib8644793536#538"    cd /Users/jgank/Documents/QRGeneration    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/MainWindow.nib /Users/jgank/Documents/QRGeneration/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/QRGeneration.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s315915693.843056
+e315915693.952617
+r1
+xCpResource
+xbuild/Debug-iphoneos/QRGeneration.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist315915693#315915693#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist5994135409057033216#493"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app0#
+
+CCreateUniversalBinary /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration normal "armv6 armv7"
+s315915701.356789
+e315915701.401508
+r1
+xCreateUniversalBinary
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/QRGeneration.app/QRGeneration normal "armv6 armv7"315915701#315915701#0(0"0(0#0#47"/Users/jgank/Documents/QRGeneration/armv6 armv78644237664#546"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGeneration /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGeneration -output /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration0#
+
+CDataModelVersionCompile /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration.momd /Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+s315915697.310547
+e315915697.428612
+r1
+xDataModelVersionCompile
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration.momd
+x/Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld
+lSLF07#2@105"DataModelVersionCompile build/Debug-iphoneos/QRGeneration.app/QRGeneration.momd QRGeneration.xcdatamodeld315915697#315915697#0(0"0(0#0#61"/Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld8644328896#349"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc /Users/jgank/Documents/QRGeneration/QRGeneration.xcdatamodeld /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration.momd0#
+
+CGenerateDSYMFile /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app.dSYM /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration
+s315915701.401633
+e315915701.550467
+r1
+xGenerateDSYMFile
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app.dSYM
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/QRGeneration.app.dSYM build/Debug-iphoneos/QRGeneration.app/QRGeneration315915701#315915701#0(0"0(0#0#86"/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration8643227840#368"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/QRGeneration -o /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app.dSYM0#
+
+CLd /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGeneration normal armv6
+s315915699.891078
+e315915700.553603
+r1
+xLd
+x/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGeneration
+xnormal
+xarmv6
+lSLF07#2@133"Link /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGeneration315915699#315915700#0(0"0(0#0#0"8642464864#986"    cd /Users/jgank/Documents/QRGeneration    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -filelist /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGeneration.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv6/QRGeneration0#
+
+CLd /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGeneration normal armv7
+s315915700.986304
+e315915701.356674
+r1
+xLd
+x/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGeneration
+xnormal
+xarmv7
+lSLF07#2@133"Link /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGeneration315915700#315915701#0(0"0(0#0#0"8647908800#986"    cd /Users/jgank/Documents/QRGeneration    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -filelist /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGeneration.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/Objects-normal/armv7/QRGeneration0#
+
+CProcessInfoPlistFile /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/Info.plist QRGeneration-Info.plist
+s315915693.905334
+e315915693.922782
+r1
+xProcessInfoPlistFile
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/Info.plist
+xQRGeneration-Info.plist
+lSLF07#2@31"Process QRGeneration-Info.plist315915693#315915693#0(0"0(0#0#59"/Users/jgank/Documents/QRGeneration/QRGeneration-Info.plist8647905152#570"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility QRGeneration-Info.plist -genpkginfo /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/ResourceRules.plist -o /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/Info.plist0#
+
+CProcessPCH /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch.gch QRGeneration_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315915694.722820
+e315915697.154219
+r1
+xProcessPCH
+x/var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch.gch
+xQRGeneration_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile QRGeneration_Prefix.pch315915694#315915697#0(0"0(0#0#59"/Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch8640977312#1687"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv6 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -c /Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch -o /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-bowynjjisimfrsgstcfgrerjkzgl/QRGeneration_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch.gch QRGeneration_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315915694.723865
+e315915697.310413
+r1
+xProcessPCH
+x/var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch.gch
+xQRGeneration_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile QRGeneration_Prefix.pch315915694#315915697#0(0"0(0#0#59"/Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch8639972640#1687"    cd /Users/jgank/Documents/QRGeneration    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-generated-files.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-own-target-headers.hmap -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-all-target-headers.hmap -iquote /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration-project-headers.hmap -F/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos -I/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/include -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources/armv7 -I/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/DerivedSources -c /Users/jgank/Documents/QRGeneration/QRGeneration_Prefix.pch -o /var/folders/+I/+Iwh70PWGCuDrYgKmfKwIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QRGeneration_Prefix-flpwmyntmrorqmaxyhhegnfssmtq/QRGeneration_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/jgank/Library/MobileDevice/Provisioning Profiles/B5D93225-AA38-4797-A5B9-A1379E10B6CF.mobileprovision" /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/embedded.mobileprovision
+s315915701.550585
+e315915701.588290
+r1
+xProcessProductPackaging
+x/Users/jgank/Library/MobileDevice/Provisioning Profiles/B5D93225-AA38-4797-A5B9-A1379E10B6CF.mobileprovision
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/jgank/Library/MobileDevice/Provisioning Profiles/B5D93225-AA38-4797-A5B9-A1379E10B6CF.mobileprovision" build/Debug-iphoneos/QRGeneration.app/embedded.mobileprovision315915701#315915701#0(0"0(0#0#98"/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/embedded.mobileprovision8643301184#422"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jgank/Library/MobileDevice/Provisioning Profiles/B5D93225-AA38-4797-A5B9-A1379E10B6CF.mobileprovision" -o /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration.xcent
+s315915701.701607
+e315915701.743216
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration.xcent
+lSLF07#2@190"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration.xcent315915701#315915701#0(0"0(0#0#113"/Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration.xcent8641853728#441"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/jgank/Documents/QRGeneration/build/QRGeneration.build/Debug-iphoneos/QRGeneration.build/QRGeneration.xcent0#
+
+CTouch /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app
+s315915701.588389
+e315915701.701483
+r1
+xTouch
+x/Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app
+lSLF07#2@79"Touch /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app315915701#315915701#0(0"0(0#0#0"8643119648#263"    cd /Users/jgank/Documents/QRGeneration    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jgank/Documents/QRGeneration/build/Debug-iphoneos/QRGeneration.app0#
+
